@@ -25,14 +25,14 @@ body {
 }
 
 .row .col-md-4 .img-responsive {
-    border: 1px solid red;
+    border: 1px solid #e24c38;
     position: relative; 
     width: 100%; /* for IE 6 */
     margin-bottom: 7.5%;
 }
 
 h1.page-header small {
-    font-family: 'Helvetica Neue', "Helvetica", Arial, sans-serif;
+    font-family: 'ExistenceLight','Helvetica Neue', "Helvetica", Arial, sans-serif;
 }
 
 .row .col-md-4 h2 {
