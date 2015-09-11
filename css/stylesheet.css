@@ -11,6 +11,11 @@
 .navbar-toggle {
     margin-right: 45px;
 }
+
+.page-header{    
+    background-color: #e24c38;
+}
+
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -21,7 +26,7 @@ body {
 }
 .row .col-lg-12 .img-responsive {
     display: block;
-    margin: 60px auto 20px;   
+    margin: 60px auto 0px;   
 }
 
 .row .col-md-4 .img-responsive {
@@ -32,6 +37,7 @@ body {
 }
 
 h1.page-header small {
+    color:white;
     font-family: 'ExistenceLight','Helvetica Neue', "Helvetica", Arial, sans-serif;
 }
 
@@ -52,25 +58,25 @@ p {
 
 h1.page-header {
     font-family: 'ExistenceLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: 0px 0px 30px;
+    margin: -1px 0px 10px;
     text-align: center;    
     font-size: 28pt;
-    color: #66595c;
+    color:white;
     font-size: 28pt;
     font-weight: 100;
     line-height: 40px;
     text-rendering: optimizelegibility;
 }
-header h1 {
+/*header h1 {
     margin: 20px 0 0;
     text-align: center;    
     font-size: 28pt;
-    color: #66595c;
+    color: white;
     font-size: 28pt;
     font-weight: 100;
     line-height: 40px;
     text-rendering: optimizelegibility;
-}
+}*/
 a {
     color: #66595c;
 }
