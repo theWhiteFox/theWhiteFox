@@ -45,15 +45,19 @@ h1.page-header small {
    position: absolute; 
    top: 10px; 
    left: 10%; 
-   width: 100%;
+   width: 700px 400px;
 }
 
-p {
+p.project {
    position: absolute; 
-   top: 80px; 
-   left: 10%; 
+   top: 40px; 
+   text-align: left;
+   width: 100%;
+   padding:10%;
+   left: 1%;
+   /*left: 1%; 
    width: 90%;
-   padding:1%;
+   padding:1%;*/
 }
 
 h1.page-header {
@@ -73,11 +77,5 @@ a {
 
 a:hover {
     color: #333333;
-}
-
-/*svg*/
-
-#FOX01 {
-    border: 10px solid black;
 }
 
