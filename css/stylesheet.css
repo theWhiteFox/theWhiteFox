@@ -8,14 +8,11 @@
     font-weight: normal;
     font-style: normal;
 }
-.navbar-toggle {
-    margin-right: 45px;
-}
-
 header{
     background-color: #e24c38; 
     width:100%;
 }
+
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -69,9 +66,8 @@ h1.page-header {
     font-size: 28pt;
     font-weight: 100;
     line-height: 40px;
-    text-rendering: optimizelegibility;
-    /*width:100%;
-    padding:1%;*/
+    text-rendering: optimizelegibility;   
+    padding:1%;
 }
 a {
     color: #66595c;
