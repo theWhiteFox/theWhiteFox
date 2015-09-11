@@ -67,21 +67,17 @@ h1.page-header {
     line-height: 40px;
     text-rendering: optimizelegibility;
 }
-/*header h1 {
-    margin: 20px 0 0;
-    text-align: center;    
-    font-size: 28pt;
-    color: white;
-    font-size: 28pt;
-    font-weight: 100;
-    line-height: 40px;
-    text-rendering: optimizelegibility;
-}*/
 a {
     color: #66595c;
 }
 
 a:hover {
     color: #333333;
+}
+
+/*svg*/
+
+#FOX01 {
+    border: 10px solid black;
 }
 
