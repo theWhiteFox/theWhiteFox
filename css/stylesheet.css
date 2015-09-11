@@ -12,10 +12,10 @@
     margin-right: 45px;
 }
 
-.page-header{    
-    background-color: #e24c38;
+header{
+    background-color: #e24c38; 
+    width:100%;
 }
-
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -70,6 +70,8 @@ h1.page-header {
     font-weight: 100;
     line-height: 40px;
     text-rendering: optimizelegibility;
+    /*width:100%;
+    padding:1%;*/
 }
 a {
     color: #66595c;
