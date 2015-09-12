@@ -46,7 +46,7 @@ h1.page-header small {
 /*project*/
 .project-details {
     position: absolute; 
-    top: 10%; 
+    top: 40%; 
     background: rgba(0,0,0,0.75); 
     width:92%;
     text-align: left;
