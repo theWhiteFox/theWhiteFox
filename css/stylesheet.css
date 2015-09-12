@@ -1,3 +1,4 @@
+/*font*/
 @font-face {
     font-family: 'existencelight';
     src: url('Existence-Light-webfont.eot');
@@ -8,11 +9,6 @@
     font-weight: normal;
     font-style: normal;
 }
-header{
-    background-color: #e24c38; 
-    width:100%;
-}
-
 body {
     margin: 0;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -21,45 +17,18 @@ body {
     color: #333333;
     background-color: rgb(250, 246, 236);
 }
-.row .col-lg-12 .img-responsive {
-    display: block;
-    margin: 60px auto 0px;   
+.navbar-brand {
+    font-family: 'ExistenceLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;    
 }
-
-.row .col-md-4 .img-responsive {
-    border: 1px solid #e24c38;
-    position: relative; 
-    width: 100%; /* for IE 6 */
-    margin-bottom: 7.5%;
+/*header*/
+header{
+    background-color: #e24c38; 
+    width:100%;
 }
-
-h1.page-header small {
-    color:white;
-    font-family: 'ExistenceLight','Helvetica Neue', "Helvetica", Arial, sans-serif;
-}
-
-.row .col-md-4 h2 {
-   position: absolute; 
-   top: 10px; 
-   left: 10%; 
-   width: 700px 400px;
-}
-
-p.project {
-   position: absolute; 
-   top: 40px; 
-   text-align: left;
-   width: 100%;
-   padding:10%;
-   left: 1%;
-   /*left: 1%; 
-   width: 90%;
-   padding:1%;*/
-}
-
 h1.page-header {
     font-family: 'ExistenceLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: -1px 0px 10px;
+    margin: -1px 0px 20px;
     text-align: center;    
     font-size: 28pt;
     color:white;
@@ -68,12 +37,37 @@ h1.page-header {
     line-height: 40px;
     text-rendering: optimizelegibility;   
     padding:1%;
+    background: rgba(0,0,0,0.55);    
+}
+h1.page-header small {
+    color:white;
+    font-family: 'ExistenceLight','Helvetica Neue', "Helvetica", Arial, sans-serif;
+}
+/*project*/
+.project-details {
+    position: absolute; 
+    top: 10%; 
+    background: rgba(0,0,0,0.75); 
+    width:92%;
+    text-align: left;
+     left: 4%;
+     color: white;
+     padding: 0 5%;
+}
+.row .col-lg-12 .img-responsive {
+    display: block;
+    margin: 60px auto 0px;   
+}
+.row .col-md-4 .img-responsive {
+    border: 1px solid #e24c38;
+    position: relative; 
+    width: 100%; /* for IE 6 */
+    margin-bottom: 7.5%;
 }
 a {
-    color: #66595c;
+    color: #e24c38;    
 }
 
-a:hover {
-    color: #333333;
+a:hover{
+    color: white;
 }
-
