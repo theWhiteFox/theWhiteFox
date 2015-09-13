@@ -44,16 +44,33 @@ h1.page-header small {
     font-family: 'ExistenceLight','Helvetica Neue', "Helvetica", Arial, sans-serif;
 }
 /*project*/
-.project-details {
-    position: absolute; 
-    top: 40%; 
-    background: rgba(0,0,0,0.75); 
-    width:92%;
-    text-align: left;
-     left: 4%;
-     color: white;
-     padding: 0 5%;
+figure{    
+    margin-bottom: 7.5%;  
+    max-width: 100%;
+    display: block; 
+  position: relative; 
+  overflow: hidden;      
 }
+figcaption {
+    position: absolute;     
+    background: rgba(0,0,0,0.75); 
+    color: white;
+    padding: 1%; 
+    text-align: center;
+    
+    opacity: 0;
+  bottom: -30%; 
+  left: 0%;
+  -webkit-transition: all 0.6s ease;
+  -moz-transition:    all 0.6s ease;
+  -o-transition:      all 0.6s ease;
+}
+
+figure:hover figcaption {
+  opacity: 1;
+  bottom: 0;
+}
+
 .row .col-lg-12 .img-responsive {
     display: block;
     margin: 60px auto 0px;   
@@ -61,8 +78,8 @@ h1.page-header small {
 .row .col-md-4 .img-responsive {
     border: 1px solid #e24c38;
     position: relative; 
-    width: 100%; /* for IE 6 */
-    margin-bottom: 7.5%;
+    width: 100%;
+    
 }
 a {
     color: #e24c38;    
@@ -71,3 +88,4 @@ a {
 a:hover{
     color: white;
 }
+
