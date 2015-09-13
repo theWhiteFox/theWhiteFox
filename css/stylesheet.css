@@ -28,7 +28,7 @@ header{
 }
 h1.page-header {
     font-family: 'ExistenceLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    margin: -1px 0px 20px;
+    margin: -1px 0px 0px;
     text-align: center;    
     font-size: 28pt;
     color:white;
@@ -42,6 +42,22 @@ h1.page-header {
 h1.page-header small {
     color:white;
     font-family: 'ExistenceLight','Helvetica Neue', "Helvetica", Arial, sans-serif;
+}
+.row .col-lg-12 .img-responsive {
+    display: block;
+    margin: 52px auto 0px;   
+}
+.row .col-md-4 .img-responsive {
+    border: 1px solid #e24c38;    
+    width: 100%;    
+}
+hr {
+    border-top: 1px solid #e24c38; 
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+hr.project-bottom{
+    margin-top: 0px;
 }
 /*project*/
 figure{    
@@ -69,17 +85,6 @@ figcaption {
 figure:hover figcaption {
   opacity: 1;
   bottom: 0;
-}
-
-.row .col-lg-12 .img-responsive {
-    display: block;
-    margin: 60px auto 0px;   
-}
-.row .col-md-4 .img-responsive {
-    border: 1px solid #e24c38;
-    position: relative; 
-    width: 100%;
-    
 }
 a {
     color: #e24c38;    
