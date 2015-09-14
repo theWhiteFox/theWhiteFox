@@ -70,6 +70,7 @@ figure{
 figcaption {
     position: absolute;   
     max-width: 100%;  
+    width: 100%;
     background: rgba(0,0,0,0.75); 
     color: white;
     padding: 1%; 
