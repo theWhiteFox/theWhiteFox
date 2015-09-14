@@ -68,7 +68,8 @@ figure{
     overflow: hidden;      
 }
 figcaption {
-    position: absolute;     
+    position: absolute;   
+    max-width: 100%;  
     background: rgba(0,0,0,0.75); 
     color: white;
     padding: 1%; 
@@ -84,6 +85,8 @@ figcaption {
 figure:hover figcaption {
   opacity: 1;
   bottom: 0;
+  max-width: 100%;
+  width: 100%;
 }
 a {
     color: #e24c38;    
