@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="908" height="178.976" viewBox="0 0 908 198.976">
-  <!--<path fill="#E24C38" d="M0 0h908v198.976H0z" id="Blackground"/>-->
+<?xml-stylesheet type="text/css" href="svg.css" ?>
   <defs>
     <style type="text/css">
       .lines {
@@ -8,36 +8,80 @@
         stroke-miterlimit: 10;
       }
       
-      #fox01 .lines {
-        animation: fade-in 2s ease;        
-      }
-      
-      #fox02 .lines {
-        animation: fade-in 4s ease;
-      }
-      
-      #fox03 .lines {
-        animation: fade-in 6s ease;
-      }
-      
-      #fox04 .lines {
-        animation: fade-in 8s ease;
-      }
-      
-      @keyframes fade-in {
+       @keyframes fadeIn {
         0% {
           opacity: 0;
         }
-        16% {
-          opacity: 0;
-        }
-        84% {
+        50% {
           opacity: 0;
         }
         100% {
           opacity: 1;
         }
+      }  
+       
+      @-moz-keyframes fadeIn {
+        0% {
+          -moz-opacity: 0.0;
+        }
+        50% {
+          -moz-opacity: 0.0;
+        }
+        100% {
+          -moz-opacity: 1.0;
+        }
+      }      
+      
+      #fox01 .lines {
+        <!--webkit-animation: fadeIn 2s ease-in 0s 1 normal forwards;
+        --> -moz-animation-name: fadeIn 2s ease-in 1s;
+        -moz-animation-fill-mode: forwards;
+        -moz-transition: fill .4s ease;
+        <!---ms-animation: fadeIn 2s ease;
+        --> <!---o-animation: fadeIn 2s ease;
+        --> 
+        animation: fadeIn 2s ease;        
       }
+      
+      #fox02 .lines {
+        <!---webkit-animation: fadeIn 4s ease;
+        --> -moz-animation-name: fadeIn 4s ease;
+        <!---ms-animation: fadeIn 4s ease;
+        -o-animation: fadeIn 4s ease;
+        --> 
+        animation: fadeIn 4s ease;
+      }
+      
+      #fox03 .lines {
+        <!--webkit-animation: fadeIn 6s ease;
+        --> -moz-animation-name: fadeIn 6s ease;
+        <!---ms-animation: fadeIn 6s ease;
+        -o-animation: fadeIn 6s ease;
+        --> 
+        animation: fadeIn 6s ease;
+      }
+      
+      #fox04 .lines {
+        <!--webkit-animation-name: fadeIn 8s ease;
+        --> -moz-animation-name: fadeIn 8s ease;
+        <!---ms-animation: fadeIn 8s ease;
+        -o-animation: fadeIn 8s ease;
+        --> 
+        animation: fadeIn 8s ease;
+      }
+      
+      @-webkit-keyframes fadeIn {
+        0% {
+          opacity: 0;
+        }
+        50% {
+          -webkit-opacity: 0;
+        }
+        100% {
+          -webkit-opacity: 1;
+        }
+      }
+
     </style>
   </defs>
   <g id="fox01">
