@@ -16,7 +16,7 @@
         }
       }  
        
-      /*@-moz-keyframes fadeIn {
+      @-moz-keyframes fadeIn {
         0% {
           -moz-opacity: 0.0;
         }
@@ -26,7 +26,7 @@
         100% {
           -moz-opacity: 1.0;
         }
-      }*/
+      }
       
       
       #fox01 .lines {
