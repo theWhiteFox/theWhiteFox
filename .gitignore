@@ -3,3 +3,4 @@ css/
 js/
 .vscode/
 node_modules/
+/gulpfile.js
