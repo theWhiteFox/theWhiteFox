@@ -3,6 +3,5 @@
 - CSS3
 - SVG 
 - BootStrap
+- Gulp
 
-------
-:lips::metal::musical_note::anger::fu::trollface::neckbeard:
