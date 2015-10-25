@@ -1,7 +1,21 @@
-## http://theWhiteFox.ninja Web App
-- HTML5 
-- CSS3
-- SVG 
-- BootStrap
-- Gulp
+##http://theWhiteFox.ninja
 
+:boom: Welcome to the git repository for `theWhiteFox.ninja`! Web App
+
+[theWhiteFox.ninja](http://theWhiteFox.ninja) is a static site hosted by [GitHub pages](http://pages.github.com/).
+
+
+| Lanuages     | Dependencies | 
+| ------------ | :------------|
+| HTML 		   | BootStrap    |
+| CSS 		   | jQuery       |
+| JS           | Handlebars   |
+| SVG          | Bower        |
+|			   | Gulp         |
+
+###PowerShell
+bower init
+
+bower install --save jquery handlebars#4.0.3 material-design-lite
+
+npm install gulp
