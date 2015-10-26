@@ -12,6 +12,7 @@ Welcome to the git repository for `theWhiteFox.ninja` Web App :boom:
 | JS           | Handlebars   |
 | SVG          | Bower        |
 |			   | Gulp         |
+|			   | Font Awesome |
 
 ###PowerShell
 bower init
