@@ -4,7 +4,6 @@ Welcome to the git repository for `theWhiteFox.ninja` Web App :boom:
 
 [theWhiteFox.ninja](http://theWhiteFox.ninja) is a static site hosted by [GitHub pages](http://pages.github.com/).
 
-
 | Lanuages     | Dependencies | 
 | ------------ | :------------|
 | HTML 		   | BootStrap    |
