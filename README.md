@@ -1,5 +1,3 @@
-##http://theWhiteFox.ninja
-
 ![](http://thewhitefox.ninja/img/banner.png)
 
 Welcome to the git repository for `theWhiteFox.ninja` Web App :boom: 
