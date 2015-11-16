@@ -1,6 +1,8 @@
 ##http://theWhiteFox.ninja
 
+```bash
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04.svg)
+```
 
 Welcome to the git repository for `theWhiteFox.ninja` Web App :boom: 
 
