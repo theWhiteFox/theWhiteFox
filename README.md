@@ -1,4 +1,4 @@
-![](http://thewhitefox.ninja/img/banner.png)
+![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
 Welcome to the git repository for `theWhiteFox.ninja` Web App :boom: 
 
