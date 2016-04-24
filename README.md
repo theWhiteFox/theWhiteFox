@@ -8,11 +8,12 @@ Welcome to the git repository for `theWhiteFox.ninja` Web App :boom:
 | ------------ | :--------------- |
 | HTML 		   | Bootstrap    	  |
 | CSS 		   | jQuery       	  |
-| JS           | Handlebars   	  |
+| JS           | ShuffleJS  	  |
 | SVG          | Bower        	  |
 |			   | Gulp         	  |
 |			   | Font Awesome 	  |
 |			   | Google Analytics |
+|              | imagesLoaded     |
 
 ###PowerShell
 bower init
