@@ -48,4 +48,3 @@ $(function() {
 $('#container').imagesLoaded().always( function( instance ) {
   console.log('ALWAYS - all images have been loaded');
 });
-
