@@ -6,6 +6,7 @@
 footer{
     text-align: center;
 }
-row text-center{
-    background-color: red;
+#shuffleContainer
+{
+    overflow: hidden;
 }
