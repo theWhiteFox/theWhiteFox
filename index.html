@@ -33,11 +33,7 @@
     <![endif]-->
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-	
-	<!-- SCRIPTS moved to head-->
-	<script src="build/min-js/jquery.shuffle.min.js"></script>	
-	<script src="build/min-js/imagesloaded.pkgd.min.js"></script>
-	<script src="build/min-js/shuffle.js"></script>
+
 
 </head>
 
@@ -102,86 +98,173 @@
 		</div>
 		<!-- /.row -->
 
-		<div class="row selector">
-			<div class="col-lg-12">
-				<div class="btn-group">
-					<button type="button" class="btn btn-primary btn-sm" id="btnAll">All</button>
-					<button type="button" class="btn btn-default btn-sm" id="btnJs">JS</button>
-					<button type="button" class="btn btn-default btn-sm" id="btnPhp">PHP</button>
-					<button type="button" class="btn btn-default btn-sm" id="btnTutor">Tutor</button>
+		<div class="row">
+			<div class="row selector">
+				<div class="col-lg-12">
+					<ul class="portfolio-sorting list-inline text-center">
+						<li><a href="#" class="btn btn-primary btn-md" role="button" data-group="all" class="active">All</a></li>
+						<li><a href="#" class="btn btn-default btn-md" role="button" data-group="js">JS</a></li>
+						<li><a href="#" class="btn btn-default btn-md" role="button" data-group="php">PHP</a></li>
+						<li><a href="#" class="btn btn-default btn-md" role="button" data-group="tutor">Tutor</a></li>
+					</ul>
 				</div>
 			</div>
+			<!--end portfolio sorting -->
+
+			<!-- Projects Row -->
+			<ul class="portfolio-items list-unstyled" id="grid">
+				<!--tutor-->
+				<li class="col-md-4" data-groups='["tutor"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-tutor-git-cv.png" alt="Item 1" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="http://thewhitefox.github.io/git-github-bootstrap-tut">Git Bootstrap</a>		
+						</h2>
+							<p class="project">Tutored fourteen students on how to create an on-line cv. Git GitHub GitHub Pages Bootstrap.
+							</p>View code <a href="https://github.com/theWhiteFox/git-github-bootstrap-tut">GitHub</a>
+						</figcaption>
+					</figure>
+				</li>
+
+				<!--php-->
+				<li class="col-md-4" data-groups='["php"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-ofp.png" alt="" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="http://www.oolongflowerpower.ie/index.php">OFP Tea Shop</a>		
+						</h2>
+							<p class="project">PHP5, MySQL, HTML5, CSS3, JavaScript, Zencart, PayPal, Photoshop Mock-ups.
+							</p>
+						</figcaption>
+					</figure>
+				</li>
+
+				<!--tutor-->
+				<li class="col-md-4" data-groups='["tutor"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-tutor.png" alt="" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="https://github.com/theWhiteFox/Software-Design-Fundamentals">C# SQL</a>		
+						</h2>
+							<p class="project">Tutored twenty students on how to programmme in C#, SQL & WinForms. Three modules, this is the first module on GitHub.
+							</p>View code <a href="https://github.com/theWhiteFox/Software-Design-Fundamentals">GitHub</a>
+						</figcaption>
+					</figure>
+				</li>
+
+				<!--js-->
+				<li class="col-md-4" data-groups='["js"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-d3charts.png" alt="" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="http://d3charts.azurewebsites.net/index.html">D3 Charts</a>		
+						</h2>
+							<p class="project">Using the d3.js library four types of charts where created. Hosted on Azure.
+							</p>View code <a href="https://github.com/theWhiteFox/D3-Charts">GitHub</a>
+						</figcaption>
+					</figure>
+				</li>
+
+				<!--js-->
+				<li class="col-md-4" data-groups='["js"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-card-list.png" alt="" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="http://businesscardlist.azurewebsites.net/">Business Card List</a>		
+						</h2>
+							<p class="project"> JavaScript, JQuery, JSON, HTML5, CSS3 & GitHub. Hosted on Azure
+							</p>View code <a href="https://github.com/theWhiteFox/Business-Card-List">GitHub</a>
+						</figcaption>
+					</figure>
+				</li>
+
+				<!--php-->
+				<li class="col-md-4" data-groups='["php"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-soc.png" alt="" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="http://stephenoconnor.azurewebsites.net/">Parallex Effect</a>		
+						</h2>
+							<p class="project">HTML5, CSS3, JS, jQuery, JSON, AJAX, OO PHP5, & MySQL. Hosted on Azure.
+							</p>View on <a href="https://github.com/theWhiteFox/StephenO-Connor-Website">GitHub</a>
+						</figcaption>
+					</figure>
+				</li>
+				<!--js-->
+				<li class="col-md-4" data-groups='["js"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-angular.png" alt="" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="http://thewhitefox.github.io/Angular-Fundamentals/#/main">GitHub Viewer</a>		
+						</h2>
+							<p class="project">Angular.js search GitHub for username. Displays a list of users repos. Hosted on GitHub pages.
+							</p>View code <a href="https://github.com/theWhiteFox/Angular-Fundamentals">GitHub</a>
+						</figcaption>
+					</figure>
+				</li>
+
+				<!--php-->
+				<li class="col-md-4" data-groups='["php"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-wdc.png" alt="" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="http://whynotdancecompany.ie/">WnDC</a>		
+						</h2>
+							<p class="project">PHP5, MySQL, HTML5, CSS3, JavaScript, Wordpress, Photoshop Mock-ups.
+							</p>
+						</figcaption>
+					</figure>
+				</li>
+
+				<!--tutor-->
+				<li class="col-md-4" data-groups='["tutor"]'>
+					<figure class="portfolio-item">
+						<a href="#">
+							<img src="img/project-bap.png" alt="" class="img-responsive">
+						</a>
+						<figcaption>
+							<h2>
+							<a class="project-head" href="http://www.bap.ie/">BAP.ie</a>		
+						</h2>
+							<p class="project">PHP5, MySQL, HTML5, CSS3, JavaScript, Drupal, Photoshop Mock-ups.
+							</p>
+						</figcaption>
+					</figure>
+				</li>
+
+				<!-- sizer -->
+				<li class="col-md-4 shuffle_sizer"></li>
+
+			</ul>
+			<!--end portfolio grid -->
+
 		</div>
+		<!--end row -->
 
-		<!-- Projects Row -->
-
-		<div class="row" id="shuffleContainer">
-
-			<!--tutor-->
-			<div class="col-md-4 portfolio-item" data-group="tutor">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-tutor-git-cv.png" alt="">					
-			</div>
-
-			<!--php-->
-			<div class="col-md-4 portfolio-item" data-group="php">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-ofp.png" alt="">
-			
-			</div>
-
-			<!--tutor c#-->
-			<div class="col-md-4 portfolio-item" data-group="tutor">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-tutor.png" alt="tutor">
-
-			</div>
-
-			<!--js-->
-			<div class="col-md-4 portfolio-item" data-group="js">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-d3charts.png" alt="d3">
-
-			</div>
-
-			<!--js-->
-			<div class="col-md-4 portfolio-item" data-group="js">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-card-list.png" alt="javascript">
-
-			</div>
-
-			<!--php-->
-			<div class="col-md-4 portfolio-item" data-group="php">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-soc.png" alt="Parallex">
-
-			</div>
-
-			<!--js-->
-			<div class="col-md-4 portfolio-item" data-group="js">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-angular.png" alt="angular">
-
-			</div>
-
-			<!--php-->
-			<div class="col-md-4 portfolio-item" data-group="php">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-wdc.png" alt="wdn">
-
-			</div>
-
-			<!--php-->
-			<div class="col-md-4 portfolio-item" data-group="php">
-				
-					<img class="img-responsive" height="400px" width="700px" src="img/project-bap.png" alt="php">
-
-			</div>
-		
-		</div>
-		<!-- /.row -->
-		
 		<!-- Pagination -->
 		<div class="row text-center">
 			<div class="col-lg-12">
@@ -212,8 +295,11 @@
 
 	<!-- Bootstrap Core JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-	
-	
+	<!-- SCRIPTS -->
+	<script src="build/min-js/jquery.shuffle.min.js"></script>
+	<script src="build/min-js/imagesloaded.pkgd.min.js"></script>
+	<script src="build/min-js/shuffle.js"></script>
+
 
 </body>
 
