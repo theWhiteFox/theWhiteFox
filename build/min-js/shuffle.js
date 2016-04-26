@@ -2,7 +2,7 @@ $(function() {
     gridContainer = $('#shuffleContainer');
     
     gridContainer.shuffle({
-        sizer: '.col-md-4',
+        sizer: document.querySelector('#shuffleContainer .col-md-4'),
         speed: 500,
         easing: 'ease-out'
     });    
