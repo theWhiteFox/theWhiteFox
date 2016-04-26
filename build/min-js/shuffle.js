@@ -5,11 +5,7 @@ $(function() {
         sizer: '.col-md-4',
         speed: 500,
         easing: 'ease-out'
-    });
-    
-    $(function() {
-    $("#btnAll").trigger("click");
-});
+    });    
     
     // click button event
     $('#btnAll').on('click', function(){
@@ -43,5 +39,9 @@ $(function() {
         });
     });
   
+});
+
+$(function() {
+    $("#btnAll").trigger("click");
 });
 
