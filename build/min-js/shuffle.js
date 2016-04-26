@@ -42,7 +42,7 @@ $(function() {
 });
 
 $(function() {
-    $("#btnPhp").trigger("click");
+    $("#btnJs").trigger("click");
 });
 
 $('#container').imagesLoaded().always( function( instance ) {
