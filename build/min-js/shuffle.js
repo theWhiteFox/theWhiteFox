@@ -7,6 +7,10 @@ $(function() {
         easing: 'ease-out'
     });
     
+    $(function() {
+    $("#btnAll").trigger("click");
+});
+    
     // click button event
     $('#btnAll').on('click', function(){
         // shuffle function
