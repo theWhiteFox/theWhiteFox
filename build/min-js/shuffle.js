@@ -42,6 +42,6 @@ $(function() {
 });
 
 $(function() {
-    $("#btnPhp").trigger("click");
+    $("#btnAll").trigger("click");
 });
 
