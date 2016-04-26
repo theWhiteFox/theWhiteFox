@@ -45,3 +45,7 @@ $(function() {
     $("#btnAll").trigger("click");
 });
 
+$('#container').imagesLoaded().always( function( instance ) {
+  console.log('ALWAYS - all images have been loaded');
+});
+
