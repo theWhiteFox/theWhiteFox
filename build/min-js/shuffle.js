@@ -1,8 +1,10 @@
 $(function() {
     gridContainer = $('#shuffleContainer');
     
+    var sizer = gridContainer.find('.col-md-4');
+    
     gridContainer.shuffle({
-        sizer: document.querySelector('#shuffleContainer .col-md-4'),
+        sizer: sizer,
         speed: 500,
         easing: 'ease-out'
     });    
