@@ -42,7 +42,7 @@ footer{
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes mymove {
-    from {letter-spacing: 1px;
+    from {letter-spacing: 0.3em; 
    transition: all .1s ease-in;}
     to {letter-spacing: 0.3em; 
     }
@@ -52,7 +52,7 @@ footer{
 
 /* Standard syntax */
 @keyframes mymove {
-     from {letter-spacing: 1px;
+     from {letter-spacing: 0.3em; 
    transition: all .1s ease-in;}
     to {letter-spacing: 0.3em; 
     }
