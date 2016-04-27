@@ -20,15 +20,16 @@ footer{
 {
  color: #E24C38;
  text-decoration: none;
-  
-  -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
-    animation: mymove 5s infinite;
+      animation: mymove 1.0s forwards;
+-webkit-animation: mymove 1.0s forwards; /* for less modern browsers */
+
     animation-iteration-count: 1;
     animation-duration: 2.5s;
     animation-timing-function: ease;
     animation-direction: normal;
     -webkit-animation-delay: 5s; /* Chrome, Safari, Opera */ 
     animation-delay: 5s;
+
 }
 
 .portfolio-sorting li a:hover,
