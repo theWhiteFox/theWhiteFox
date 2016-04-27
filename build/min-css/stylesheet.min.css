@@ -6,15 +6,27 @@
 footer{
     text-align: center;
 }
+
+.portfolio-sorting
+{
+	text-transform: uppercase;		
+    letter-spacing: 3px;
+    font-weight: bold;
+	
+}
  
 .portfolio-sorting li a 
 {
- color: black;
+ color: #E24C38;
  text-decoration: none;
-
+ 
 }
+
 .portfolio-sorting li a:hover,
 .portfolio-sorting li a.active
 {
- color: #2980b9; 
+	color: #662219;	
+}
+* {
+  border-radius: 0 !important;
 }
