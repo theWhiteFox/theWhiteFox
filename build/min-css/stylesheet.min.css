@@ -27,9 +27,9 @@ footer{
     animation-duration: 2.5s;
     animation-timing-function: ease;
     animation-direction: normal;
-    -webkit-animation-delay: 8s; /* Chrome, Safari, Opera */
+    -webkit-animation-delay: 4s; /* Chrome, Safari, Opera */
  
-    animation-delay: 8s;
+    animation-delay: 4s;
 }
 
 .portfolio-sorting li a:hover,
