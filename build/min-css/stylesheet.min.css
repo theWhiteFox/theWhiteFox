@@ -44,7 +44,7 @@ footer{
 @-webkit-keyframes mymove {
     from {letter-spacing: 1px;
    transition: all .1s ease-in;}
-    to {letter-spacing: 0.2em; 
+    to {letter-spacing: 0.3em; 
     }
     
     
@@ -54,7 +54,7 @@ footer{
 @keyframes mymove {
      from {letter-spacing: 1px;
    transition: all .1s ease-in;}
-    to {letter-spacing: 0.2em; 
+    to {letter-spacing: 0.3em; 
     }
 }
 
