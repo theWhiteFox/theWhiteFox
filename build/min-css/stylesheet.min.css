@@ -10,8 +10,10 @@ footer{
 .portfolio-sorting
 {
 	text-transform: uppercase;		
-    letter-spacing: 0.3em;
+    letter-spacing: 3px;
     font-weight: bold;
+     
+	
 }
  
 .portfolio-sorting li a 
@@ -25,9 +27,8 @@ footer{
     animation-duration: 2.5s;
     animation-timing-function: ease;
     animation-direction: normal;
-    -webkit-animation-delay: 4s; /* Chrome, Safari, Opera */
- 
-    animation-delay: 4s;
+    -webkit-animation-delay: 5s; /* Chrome, Safari, Opera */ 
+    animation-delay: 5s;
 }
 
 .portfolio-sorting li a:hover,
@@ -42,20 +43,20 @@ footer{
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes mymove {
-    from {letter-spacing: 0.5em; 
+    from {letter-spacing: 1px;
    transition: all .1s ease-in;}
-    to {letter-spacing: 0.3em; 
-    }
+    to {letter-spacing: 0.2em; 
+    animation-timing-function: ease-out; }
     
     
 }
 
 /* Standard syntax */
 @keyframes mymove {
-     from {letter-spacing: 0.5em; 
+     from {letter-spacing: 1px;
    transition: all .1s ease-in;}
-    to {letter-spacing: 0.3em; 
-    }
+    to {letter-spacing: 0.2em; 
+    animation-timing-function: ease-out; }
 }
 
 @media print
