@@ -10,7 +10,7 @@ footer{
 .portfolio-sorting
 {
 	text-transform: uppercase;		
-    /*letter-spacing: 3px;*/
+    letter-spacing: 0.3em;
     font-weight: bold;
 }
  
