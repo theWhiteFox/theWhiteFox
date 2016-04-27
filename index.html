@@ -34,7 +34,6 @@
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-
 </head>
 
 <body>
@@ -294,6 +293,13 @@
 
 	</div>
 	<!-- /.container -->
+	
+	<!-- child of the body tag -->
+<span id="top-link-block" class="hidden">
+    <a href="#top" class="well well-sm" onclick="$('html,body').animate({scrollTop:0},'slow');return false;">
+        <i class="fa fa-hand-pointer-o" aria-hidden="true"></i>
+    </a>
+</span><!-- /top-link-block -->
 
 	<!-- Bootstrap Core JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
@@ -301,7 +307,6 @@
 	<script src="build/min-js/jquery.shuffle.min.js"></script>
 	<script src="build/min-js/imagesloaded.pkgd.min.js"></script>
 	<script src="build/min-js/shuffle.js"></script>
-
 
 </body>
 
