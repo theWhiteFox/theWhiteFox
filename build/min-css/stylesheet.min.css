@@ -22,9 +22,8 @@ footer{
  text-decoration: none;
       animation: mymove 1.0s forwards;
 -webkit-animation: mymove 1.0s forwards; /* for less modern browsers */
-
     animation-iteration-count: 1;
-    animation-duration: 2.5s;
+    animation-duration: 2s;
     animation-timing-function: ease;
     animation-direction: normal;
     -webkit-animation-delay: 5s; /* Chrome, Safari, Opera */ 
@@ -44,7 +43,7 @@ footer{
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes mymove {
-    from {letter-spacing: 2px;
+    from {letter-spacing: 1px;
    transition: all .1s ease-in;}
     to {letter-spacing: 0.2em; 
     animation-timing-function: ease-out; }
@@ -54,7 +53,7 @@ footer{
 
 /* Standard syntax */
 @keyframes mymove {
-     from {letter-spacing: 2px;
+     from {letter-spacing: 1px;
    transition: all .1s ease-in;}
     to {letter-spacing: 0.2em; 
     animation-timing-function: ease-out; }
