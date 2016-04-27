@@ -62,8 +62,15 @@ footer{
        text-align: right !important;
     }
    #page2:after {    
-       
+       font-family:   ExistenceLight;
     content: "Page 2 theWhiteFox cont.";
+  
+    }
+    
+    
+    h2.courses
+    {
+    padding-top: 30px !important;   
     
     }
    
@@ -86,11 +93,6 @@ footer{
 
 
 
-    h2.courses
-    {
-    padding-top: 30px !important;   
-    
-    }
     
     
 
