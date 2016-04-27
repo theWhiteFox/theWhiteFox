@@ -50,9 +50,44 @@ footer{
     {
     display: none !important;
     }
+    .contact-item .title a{
+    color:#0000EE !important;
+    }
+    #page2 {     
+       padding-top: 10px;
+       text-align: right !important;
+    }
+   #page2:after {    
+       
+    content: "Page 2 theWhiteFox cont.";
+    
+    }
+   
+    .container {
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0;
+    margin-left: 0;
+    }
 }
 
 @media print {
   -webkit-print-color-adjust: exact;
 }
+
+.fa-mobile {
+    text-align: center;
+    padding-left: 3px;
+}
+
+
+
+    h2.courses
+    {
+    padding-top: 30px !important;   
+    
+    }
+    
+    
+
 
