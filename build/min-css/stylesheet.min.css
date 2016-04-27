@@ -30,3 +30,29 @@ footer{
 * {
   border-radius: 0 !important;
 }
+
+@media print
+{    
+    .no-print, .no-print *
+    {
+        display: none !important;
+    }
+}
+
+@media print {
+    .skillbar {
+        background-color:#829db4 !important;
+    }
+    .legend:before, .skills-legend:before {
+        background-color:#829db4 !important;
+    }
+    a.morelink
+    {
+    display: none !important;
+    }
+}
+
+@media print {
+  -webkit-print-color-adjust: exact;
+}
+
