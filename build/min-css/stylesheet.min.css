@@ -45,7 +45,7 @@ footer{
     from {letter-spacing: 1px;
    transition: all .1s ease-in;}
     to {letter-spacing: 0.2em; 
-    animation-timing-function: ease-out; }
+    }
     
     
 }
@@ -55,7 +55,7 @@ footer{
      from {letter-spacing: 1px;
    transition: all .1s ease-in;}
     to {letter-spacing: 0.2em; 
-    animation-timing-function: ease-out; }
+    }
 }
 
 @media print
