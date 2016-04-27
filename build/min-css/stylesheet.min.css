@@ -10,7 +10,7 @@ footer{
 .portfolio-sorting
 {
 	text-transform: uppercase;		
-    /*letter-spacing: 0.3em;*/
+    letter-spacing: 0.3em;
     font-weight: bold;
 }
  
@@ -42,7 +42,7 @@ footer{
 
 /* Chrome, Safari, Opera */
 @-webkit-keyframes mymove {
-    from {letter-spacing: 0.3em; 
+    from {letter-spacing: 0.5em; 
    transition: all .1s ease-in;}
     to {letter-spacing: 0.3em; 
     }
@@ -52,7 +52,7 @@ footer{
 
 /* Standard syntax */
 @keyframes mymove {
-     from {letter-spacing: 0.3em; 
+     from {letter-spacing: 0.5em; 
    transition: all .1s ease-in;}
     to {letter-spacing: 0.3em; 
     }
