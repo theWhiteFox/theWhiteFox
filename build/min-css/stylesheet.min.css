@@ -136,5 +136,8 @@ footer{
     bottom: 18px;
     right: 20px;
 }
+footer p>a {
+    padding-left:2%;
+}
 
 
