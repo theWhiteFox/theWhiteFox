@@ -11,9 +11,7 @@ footer{
 {
 	text-transform: uppercase;		
     letter-spacing: 1px;
-    font-weight: bold;
-     
-	
+    font-weight: bold; 
 }
  
 .portfolio-sorting li a 
@@ -47,8 +45,6 @@ footer{
    transition: all .1s ease-in;}
     to {letter-spacing: 0.2em; 
     animation-timing-function: ease-out; }
-    
-    
 }
 
 /* Standard syntax */
@@ -93,8 +89,7 @@ footer{
        font-family:   ExistenceLight;
     content: "Page 2 theWhiteFox cont.";
   
-    }
-    
+    }    
     
     h2.courses
     {
@@ -133,8 +128,8 @@ footer{
 }
 #top-link-block.affix {
     position: fixed; /* keeps it on the bottom once in view */
-    bottom: 18px;
-    right: 20px;
+    bottom: 24px;
+    right: 4px;
 }
 footer p>a {
     padding-left:4px;
