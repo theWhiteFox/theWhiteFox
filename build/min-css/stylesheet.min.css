@@ -70,33 +70,29 @@ footer{
     .legend:before, .skills-legend:before {
         background-color:#829db4 !important;
     }
-    a.morelink
-    {
+    a.morelink {
     display: none !important;
     }
     .contact-item .title a{
     color:#0000EE !important;
     }
     
-     a{
+    a {
     color:#0000EE !important;
     }
     #page2 {     
-       padding-top: 10px;
+       padding-top: 20px;
        text-align: right !important;
     }
-   #page2:after {    
+    #page2:after {    
        font-family:   ExistenceLight;
     content: "Page 2 theWhiteFox cont.";
   
-    }    
-    
-    h2.courses
-    {
+    } 
+    h2.courses {
     padding-top: 30px !important;   
     
-    }
-   
+    }   
     .container {
     padding-right: 0px;
     padding-left: 0px;
