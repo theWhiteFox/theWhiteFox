@@ -33,8 +33,8 @@
       }      
       
       #fox01 .lines {
-        <!--webkit-animation: fadeIn 2s ease-in 0s 1 normal forwards;
-        --> -moz-animation-name: fadeIn 2s ease-in 1s;
+       <!---webkit-animation: fadeIn 4s ease; -->  
+         -moz-animation-name: fadeIn 2s ease-in 1s;
         -moz-animation-fill-mode: forwards;
         -moz-transition: fill .4s ease;
         <!---ms-animation: fadeIn 2s ease;
