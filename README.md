@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/theWhiteFox/theWhiteFox.svg?branch=master)](https://travis-ci.org/theWhiteFox/theWhiteFox)
+
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
 Welcome to the git repository for `theWhiteFox.ninja` Web App :boom: 
