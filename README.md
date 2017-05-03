@@ -23,3 +23,5 @@ bower init
 bower install --save jquery handlebars#4.0.3 material-design-lite
 
 npm install gulp
+
+If you are gonna clone can you at least, smash the :star2: Star button like a boss!
