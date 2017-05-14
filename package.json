@@ -1,0 +1,28 @@
+{
+  "name": "thewhitefox",
+  "version": "1.0.0",
+  "description": "thewhitefox website blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theWhiteFox/theWhiteFox.git"
+  },
+  "keywords": [
+    "thewhitefox",
+    "website",
+    "blog"
+  ],
+  "author": "theWhiteFox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theWhiteFox/theWhiteFox/issues"
+  },
+  "homepage": "https://github.com/theWhiteFox/theWhiteFox#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1"
+  }
+}
