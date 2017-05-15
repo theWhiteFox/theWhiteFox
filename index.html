@@ -316,6 +316,26 @@
 	<script src="build/min-js/jquery.shuffle.min.js"></script>
 	<script src="build/min-js/imagesloaded.pkgd.min.js"></script>
 	<script src="build/min-js/shuffle.js"></script>
+     <script>
+            $.getJSON('images.json', function (data) {
+                $.each(data.images, function (i, f) {
+                    $("#gallery ul").append(
+                        "<li class='col-md-4' data-groups='['js']>" +
+                        "<figure class='portfolio-item'>" +
+                        "<a href='#'>" +
+                        '<li><img class="img-responsive" src= "' + f.url + '"></li>' +
+                        "</a>" +
+                        "<figcaption>" +
+                        "<h2>" +
+                        "<a class='project-head' href=''>" + f.name + "</a>" +
+                        "</h2>" +
+                        "<p class='project'>" + f.caption + " </p>" +
+                        "</figcaption>" +
+                        "</figure>" +
+                        "</li>");
+                });
+            });
+        </script>
 
 </body>
 
