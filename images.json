@@ -1,0 +1,14 @@
+{
+    "images": [
+        {
+            "name": "Netcelero Logo",
+            "url": "img/netcelero.png",
+            "caption": "HTML5, JS, PHP, JWT "
+        },
+        {
+            "name": "theWhiteFox blog",
+            "url": "img/theWhiteFox-blog.png",
+            "caption": "JeKyll, Markdown"
+        }
+    ]
+}
