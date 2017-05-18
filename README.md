@@ -11,17 +11,16 @@ Welcome to the git repository for `theWhiteFox.ninja` Web App :boom:
 | HTML 		   | Bootstrap    	  |
 | CSS 		   | jQuery       	  |
 | JS           | ShuffleJS  	  |
-| SVG          | Bower        	  |
-|			   | Gulp         	  |
+| SVG          | Gulp         	  |
 |			   | Font Awesome 	  |
 |			   | Google Analytics |
 |              | imagesLoaded     |
 
-###PowerShell
-bower init
 
-bower install --save jquery handlebars#4.0.3 material-design-lite
+install node
 
 npm install gulp
 
-If you are gonna clone can you at least, smash the :star2: Star button like a boss!
+create a gulp.js file
+
+install browser-sync or live-server
