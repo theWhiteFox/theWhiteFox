@@ -6,21 +6,25 @@ Welcome to the git repository for `theWhiteFox.ninja` Web App :boom:
 
 [theWhiteFox.ninja](http://theWhiteFox.ninja) is a static site hosted by [GitHub pages](http://pages.github.com/).
 
-| Lanuages     | Dependencies 	  | 
-| ------------ | :--------------- |
-| HTML 		   | Bootstrap    	  |
-| CSS 		   | jQuery       	  |
-| JS           | ShuffleJS  	  |
-| SVG          | Gulp         	  |
-|			   | Font Awesome 	  |
-|			   | Google Analytics |
-|              | imagesLoaded     |
+| Lanuages     | Dependencies 	  | Editors                     |
+| ------------ | :--------------- | :-------------------------- |
+| HTML 		   | Bootstrap    	  | VS Code                     |
+| CSS 		   | jQuery       	  | [prose.io](http://prose.io) |
+| JS           | ShuffleJS  	  |                             |
+| SVG          | Gulp         	  |                             |
+|			   | Font Awesome 	  |                             |
+|			   | Google Analytics |                             |
+|              | imagesLoaded     |                             |
 
 
-install node
+Steps
 
-npm install gulp
+1. install node
 
-create a gulp.js file
+2. install npm 
 
-install browser-sync or live-server
+3. npm install gulp
+
+4. create a gulp.js file
+
+5. install browser-sync or live-server
