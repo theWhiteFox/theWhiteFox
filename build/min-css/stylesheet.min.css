@@ -3,3 +3,5 @@
 #skill-more-hc .tooltiptext1{visibility:hidden;width:100%;background-color:#000;color:#fff;text-align:center;padding:2.4px 0;position:absolute;z-index:1}#skill-more-hc:hover .tooltiptext1{visibility:visible}
 
 #skill-more-es6 .tooltiptext2{visibility:hidden;width:100%;background-color:#000;color:#fff;text-align:center;padding:2.4px 0;position:absolute;z-index:1}#skill-more-es6:hover .tooltiptext2{visibility:visible}
+
+#skill-more-bs .tooltiptext3{visibility:hidden;width:100%;background-color:#000;color:#fff;text-align:center;padding:2.4px 0;position:absolute;z-index:1}#skill-more-bs:hover .tooltiptext3{visibility:visible}
