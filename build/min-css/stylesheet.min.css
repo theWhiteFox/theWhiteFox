@@ -8,6 +8,9 @@
 
 #skill-more-jq #tooltiptext4{visibility:hidden;width:100%;background-color:#000;color:#fff;text-align:center;padding:2.4px 0;position:absolute;z-index:1}#skill-more-jq:hover #tooltiptext4{visibility:visible}
 
-#skill-more-hc #tooltiptext1{visibility:hidden;width:100%;background-color:#000;color:#fff;text-align:center;padding:2.4px 0;position:absolute;z-index:1}#skill-more-hc:hover #tooltiptext1{visibility:visible}
+#skill-more-d3 #tooltiptext1{visibility:hidden;width:100%;background-color:#000;color:#fff;text-align:center;padding:2.4px 0;position:absolute;z-index:1}#skill-more-d3:hover #tooltiptext1{visibility:visible}
 
+#skill-more-sql #tooltiptext1{visibility:hidden;width:100%;background-color:#000;color:#fff;text-align:center;padding:2.4px 0;position:absolute;z-index:1}#skill-more-sql:hover #tooltiptext1{visibility:visible}
+
+#skill-more-paas #tooltiptext1{visibility:hidden;width:100%;background-color:#000;color:#fff;text-align:center;padding:2.4px 0;position:absolute;z-index:1}#skill-more-paas:hover #tooltiptext1{visibility:visible}
 
