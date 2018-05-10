@@ -5,7 +5,8 @@
     width: 100%;
     background-color: black;
     color: #fff;
-    text-align: center;
+    text-align: center;  
+    padding: 2px 0;
 
     /* Position the tooltip */
     position: absolute;
