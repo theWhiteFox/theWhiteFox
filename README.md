@@ -2,7 +2,7 @@
 
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
-Welcome to the git repository for `theWhiteFox.ninja` Web App :boom: 
+This is the git repository for `theWhiteFox.ninja` Web App :boom: 
 
 [theWhiteFox.ninja](http://theWhiteFox.ninja) is a static site hosted by [GitHub pages](http://pages.github.com/).
 
