@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "theWhiteFox First Post"
+title:  "Learn to build apps simply"
 date:   2018-09-04 17:55:41
 categories: jekyll first month
 ---
