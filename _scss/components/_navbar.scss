@@ -125,7 +125,7 @@
     }
   }
   li:last-child {
-    border-bottom: 0;
+    border-bottom: 0;    
   }
 }
 
@@ -172,4 +172,6 @@ a:hover {
   color:#e24c38;
 }
 
-// .navbar-nav li:last-child .nav-link {}
+.navbar-nav li:last-child .nav-link:hover {
+  color:cornflowerblue;
+}

@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: theWhiteFox Blog
 permalink: /blog/
 ---
 

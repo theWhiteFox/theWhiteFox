@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV
+title: theWhiteFox CV
 permalink: /cv/
 ---
 

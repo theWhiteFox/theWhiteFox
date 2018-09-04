@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: theWhiteFox About
 permalink: /about/
 ---
 

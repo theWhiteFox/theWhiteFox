@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: theWhiteFox Contact
 permalink: /contact/
 ---
 
