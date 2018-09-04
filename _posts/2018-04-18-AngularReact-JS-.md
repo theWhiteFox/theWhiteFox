@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Learn JS Angular & React
-date: {}
-categories: Learning ReactJS
-published: true
+title:  "theWhiteFox First Post"
+date:   2018-09-04 17:55:41
+categories: jekyll first month
 ---
 
 Learning JavaScript (JS) with Angular & React and jekyell. I'm learning these fameworks to improve my understanding of JS and how it works and to build easier to build and maintain apps.
