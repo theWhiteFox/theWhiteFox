@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Build simply apps"
+title:  "Build simple apps"
 date:   2018-09-04 17:55:41
 categories: jekyll first month
 ---
