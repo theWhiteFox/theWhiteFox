@@ -1,0 +1,43 @@
+/* Header */
+
+header {
+  // @include rem(padding, 25px 0 25px 0);
+  background-color: #662219;
+  // border-bottom: 1px solid #ddd;
+  color:white;
+  .container {
+    padding: 0;
+  }
+}
+
+.navbar-brand {
+  font-size: 24px;
+  color:white;  
+  font-family: "existencelight", sans-serif;
+}
+
+.arrow-background {
+  text-align: left;
+  // margin-top: -4px;
+  font-size: 1px;
+}
+
+.arrow {
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 10px 30px 0 30px;
+}
+
+.arrow-home-page-banner-arrow {
+  position: relative;
+  border-color:#662219 transparent transparent transparent !important;
+  // margin-bottom: 0;
+    // @include media-breakpoint-down(sm) {
+    // display: none;
+  // }
+}
+
+
+

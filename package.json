@@ -1,28 +1,42 @@
 {
-  "name": "thewhitefox",
-  "version": "1.0.0",
-  "description": "thewhitefox website blog",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/theWhiteFox/theWhiteFox.git"
-  },
+  "name": "jekyll-bootstrap-4",
+  "version": "0.0.0",
+  "description": "Jekyll + Gulp + Browser-sync + Bootstrap 4 + Font-Awesome + Magnific popup",
+  "main": "gulpfile.js",
+  "author": "David Malone - david@souldesign.net.nz",
   "keywords": [
-    "thewhitefox",
-    "website",
-    "blog"
+    "Jekyll",
+    "Gulp",
+    "Scss",
+    "Bootstrap",
+    "Jquery",
+    "Jquery match height",
+    "Font awesome",
+    "Magnific popup",
+    "Browser-sync"
   ],
-  "author": "theWhiteFox",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/theWhiteFox/theWhiteFox/issues"
-  },
-  "homepage": "https://github.com/theWhiteFox/theWhiteFox#readme",
   "devDependencies": {
-    "browser-sync": "^2.18.8",
-    "gulp": "^3.9.1"
+    "bootstrap": "^4.1.1",
+    "browser-sync": "^2.24.4",
+    "browserify": "^16.2.2",
+    "cssnano": "^3.10.0",
+    "es6-promise": "^4.2.4",
+    "event-stream": "^3.3.4",
+    "font-awesome": "^4.7.0",
+    "glob": "^7.1.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-flatten": "^0.4.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "install": "^0.11.0",
+    "jquery": "^3.3.1",
+    "jquery-match-height": "^0.7.2",
+    "magnific-popup": "^1.1.0",
+    "popper.js": "^1.14.3",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
   }
 }

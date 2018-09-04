@@ -1,0 +1,9 @@
+/* Page */
+
+.page-background {
+  background-color: #faf6ec;
+}
+
+.page {
+  @include rem(padding, 30px 0 30px 0);
+}

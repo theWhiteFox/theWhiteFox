@@ -1,0 +1,142 @@
+/* Home Page */
+
+.home-page-intro-container {
+  background-color: #faf6ec;
+}
+
+.home-page-intro-container a {
+  color:cornflowerblue;
+}
+
+.home-intro {
+  display: block;
+  @include rem(padding, 20px 0 0px 0);
+  @include media-breakpoint-down(sm) {
+    padding-bottom: 0;
+    .btn-success {
+      width: 100%;
+    }
+  }
+}
+
+.home-carousel {
+  @include rem(margin, 40px 0 40px 0);
+  border: 1px solid #bbb;
+  box-shadow: rgba(0,0,0,0.0980392) 0 1px 4px;
+  img {
+    height:100%;
+    width:100%;
+  }
+  @include media-breakpoint-down(xs) {
+    display: none;
+  }
+}
+
+.home-page-cards-background {
+  background-color: #faf6ec;
+  @include rem(padding, 20px 0 20px 0);
+  @include media-breakpoint-down(xs) {
+    background-color: #fff;
+  }
+}
+
+.home-card {
+  background-color: #fff;
+  float: left;
+  width: 100%;
+  border: 1px solid #bbb;
+  box-shadow: rgba(0,0,0,0.0980392) 0 1px 4px;
+  @include media-breakpoint-down(xs) {
+    box-shadow: none;
+    border: 0px;
+  }
+  img {
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+  @include media-breakpoint-down(md) {
+    @include rem(margin-bottom, 40px);
+    img {
+      float: left;
+      width: 50%;
+    }
+  }
+  @include media-breakpoint-down(sm) {
+    @include rem(padding, 0);
+    img {
+      float: left;
+      width: 100%;
+      @include rem(margin-bottom, 15px);
+    }
+  }
+  .home-card-content {
+    float: left;
+    width: 100%;
+    @include rem(padding, 30px);
+    @include media-breakpoint-down(md) {
+      width: 50%;
+    }
+    @include media-breakpoint-down(xs) {
+      width: 100%;
+      padding: 0;
+    }
+  }
+}
+
+.portfolio-item {
+  border: 1px solid #e24c38;
+}
+
+
+figure {
+  margin-bottom: 7.5%;
+  display: block;
+  position: relative
+}
+
+figcaption {
+  position: absolute;
+  width: 100%;
+  background: rgba(0, 0, 0, .85);
+  color: #fff;
+  opacity: 0;
+  bottom: -30%;
+  left: 0;
+  -webkit-transition: all .6s ease;
+  -moz-transition: all .6s ease;
+  -o-transition: all .6s ease;
+  transition: all .6s ease
+}
+
+figure:hover figcaption {
+  opacity: 1;
+  bottom: 0;
+  max-width: 100%;
+  width: 100%
+}
+
+figure:before {
+  content: "\e091";
+  font-family: typicons;
+  position: absolute;
+  background: rgba(255, 255, 255, .85);
+  color: #000;
+  width: 24px;
+  height: 24px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  border-radius: 12px;
+  font-size: 22px;
+  top: 10px;
+  right: 10px;
+  line-height: 24px;
+  -webkit-transition: all .6s ease;
+  -moz-transition: all .6s ease;
+  -o-transition: all .6s ease;
+  opacity: .75
+}
+
+figure:hover:before {
+  opacity: 0
+}

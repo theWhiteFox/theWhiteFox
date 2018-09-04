@@ -1,0 +1,9 @@
+# example /_data/navigation.yml
+- title: "CV"
+  href: /cv/
+  
+- title: "Blog"
+  href: /blog/ 
+
+- title: "About"
+  href: /about/ 

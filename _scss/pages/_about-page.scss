@@ -1,0 +1,19 @@
+#contact-form {
+    background-color: rgba(0, 0, 0, .1);
+    padding:1rem;
+    border: 1px solid #e24c38;
+}
+.form-control {  
+    font-size:95%;
+    height: -webkit-calc(2.25rem + 2px);
+    height: calc(2.25rem + 2px);
+}
+
+.text-muted {   
+    padding-top:.4rem;
+}
+
+.google-map, .profile-pic {
+    // margin: 1rem 0 1rem 0;
+    border: 1px solid #e24c38;
+}

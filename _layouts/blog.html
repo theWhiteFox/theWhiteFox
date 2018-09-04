@@ -1,0 +1,40 @@
+--- 
+layout: default 
+---
+
+<div class="container-full home-page-intro-container">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
+        <div class="home-intro">        
+          <p>This is my blog it will will be my journal. A reflective tool in my programming adventures. As I learn, I will write about what I am learning, in turn this will solidify my understanding of programming. I chose <a href="https://jekyllrb.com/">jekyll</a> because it's static, works real good with GitHub Pages. It's easy to set up and get running locally with any OS and cli. I am using GitHub pages to host using CNAME.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container-full home-page-cards-background">
+  <div class="container">
+    <div class="row">
+      {% for post in site.posts %}
+      <div class="col-xl-3 col-lg-3">
+        <div class="home-card">
+            <div id="img-wrapper">
+          <a href="{{ post.url | relative_url }}">
+            <img class="blog-post-img" class="img-responsive" src="{{site.baseurl}}/img/theWhiteFoxLogo04.svg" alt="theWhiteFox Logo">
+          </a>
+        </div>
+          <div class="home-card-content">   
+            <p>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><br>
+           
+            {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+          </p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

@@ -1,7 +1,5 @@
-### theWhiteFox ###
-src/*
-css/
-js/
-.vscode/
-node_modules/
-/gulpfile.js
+# ignore node modules
+/node_modules/
+
+# ignore compiled site
+/_site/
