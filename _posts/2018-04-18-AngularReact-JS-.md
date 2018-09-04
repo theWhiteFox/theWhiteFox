@@ -5,7 +5,7 @@ date:   2018-09-04 17:55:41
 categories: jekyll first month
 ---
 
-Learning JavaScript (JS) with Angular & React and jekyell. I'm learning these fameworks to improve my understanding of JS and how it works to build easier maintain and edit apps.
+Learning JavaScript (JS) with Angular React & jekyell. I'm learning these fameworks to improve my understanding of JS and how it works to build easier maintain and edit apps.
 
 My AngualarJS apps hosted sites on Azure and GitHub pages
 
