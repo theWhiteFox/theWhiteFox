@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Learn JS Angular & React
-date: 2018-08-09 20:14:41
+date: {}
 categories: Learning ReactJS
 published: true
 ---
 
-Learning JavaScript (JS) with Angular & React and maybe a little ember. I'm learning these JS Model View Controller fameworks to improve my understanding of JS and how it works.
+Learning JavaScript (JS) with Angular & React and jekyell. I'm learning these fameworks to improve my understanding of JS and how it works and to build easier to build and maintain apps.
 
 AngualarJS hosted sites on Azure and GitHub pages
 
