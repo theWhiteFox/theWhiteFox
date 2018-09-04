@@ -16,8 +16,8 @@ This is the git repository for `theWhiteFox.ninja` Web App :boom:
 | CSS3       | jQuery                                   | [prose.io](http://prose.io) |
 | JS(es6)    | Ruby (refer to jekyll documentation)     |                             |
 | Ruby 2.5.1 | RubyGems (refer to jekyll documentation) |                             |
-| Ruby 2.5.1 | Jekyll                                   |                             |
-| SVG        | NodeJS (sudo apt-get install nodejs)     |                             |
+| SVG        | Jekyll                                   |                             |
+|            | NodeJS (sudo apt-get install nodejs)     |                             |
 |            | NPM (sudo apt-get install npm)           |                             |
 |            | Gulp (sudo npm install gulp -g)          |                             |
 |            | ShuffleJS                                |                             |
