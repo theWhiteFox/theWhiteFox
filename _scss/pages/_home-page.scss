@@ -140,3 +140,29 @@ figure:before {
 figure:hover:before {
   opacity: 0
 }
+
+
+
+#touch {
+  background-image: linear-gradient(
+    to right,
+    #e24c38 50%,
+    transparent 0%
+  );
+  background-size: 3px 1px;
+  background-repeat: repeat-x;
+  background-position: 0% bottom;
+
+  animation-name: border-dance;
+  animation-duration: 24s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+@keyframes border-dance {
+  from {
+    background-position: 0% bottom;
+  }
+  to {
+    background-position: 100% bottom;
+  }
+}
