@@ -328,9 +328,15 @@ hr {
     margin-bottom: 18px
 }
 
-hr.project-bottom {
-    margin-top: 0
+.box hr {
+    border-top: 1px solid #e24c38;
+    margin-top: 38px;
+    margin-bottom: 18px
 }
+
+// hr.project-bottom {
+//     margin-top: 0
+// }
 
 
 .skillbar {
@@ -794,4 +800,10 @@ footer p>a {
     -moz-hyphens: auto;
     -webkit-hyphens: auto;
     hyphens: auto;
+}
+
+.contact-soc a{
+    color:cornflowerblue;
+    padding-bottom: .8rem;  
+    padding-right: .3rem;  
 }
