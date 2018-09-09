@@ -159,6 +159,7 @@ figure {
     padding: 3px 1px 9px 1px;
     margin: 0;
     font-size: .85em;
+    
 }
 
 .contact-item .title {
@@ -806,4 +807,9 @@ footer p>a {
     color:cornflowerblue;
     padding-bottom: .8rem;  
     padding-right: .3rem;  
+    text-decoration: none;
+}
+
+#meetup-icon:hover{
+    fill: #e24c38 !important;
 }
