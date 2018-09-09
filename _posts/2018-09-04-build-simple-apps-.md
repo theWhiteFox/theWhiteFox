@@ -14,7 +14,7 @@ My AngualarJS apps hosted sites on Azure and GitHub pages
 
 - [github.io Angular Fundamentals]( http://thewhitefox.github.io/Angular-Fundamentals/#/main)
 
-AngularJS on GitHub repos
+AngularJS on GitHub
 
 - [AngularJS Fun](https://github.com/theWhiteFox/AngularJS-Fun)
 
@@ -24,7 +24,7 @@ AngularJS on GitHub repos
 
 - [AngularJS Registration Login](https://github.com/theWhiteFox/angularjs-registration-login)
 
-React repos
+React on GitHub
 
 - [Create a react app](https://thewhitefox.github.io/create-react-app/)
 
