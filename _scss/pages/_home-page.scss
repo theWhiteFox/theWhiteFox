@@ -166,3 +166,40 @@ figure:hover:before {
     background-position: 100% bottom;
   }
 }
+
+
+
+.btn {
+  // font-size: 1rem;
+  // font-weight: normal;
+  text-decoration: none;
+  cursor: pointer;
+  display: inline-block;
+  line-height: normal;
+  padding: .2rem 1rem;
+  margin: 0;
+  height: auto;
+  // border: 1px solid;
+  vertical-align: middle;
+  -webkit-appearance: none;
+  color: white;
+  background-color: #e24c38;
+}
+
+.btn:hover {
+text-decoration: none;
+color:#e24c38;
+background-color: #6b281f;
+}
+
+.btn:focus {
+outline: none;
+// border-color: var(--darken-2);
+// box-shadow: 0 0 0 3px var(--darken-3);
+}
+
+::-moz-focus-inner {
+border: 0;
+padding: 0;
+}
+
