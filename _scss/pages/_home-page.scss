@@ -35,13 +35,11 @@
 .home-page-cards-background {
   background-color: #faf6ec;
   @include rem(padding, 20px 0 20px 0);
-  @include media-breakpoint-down(xs) {
-    background-color: #fff;
-  }
+
 }
 
 .home-card {
-  background-color: #fff;
+  // background-color: #fff;
   float: left;
   width: 100%;
   border: 1px solid #bbb;
