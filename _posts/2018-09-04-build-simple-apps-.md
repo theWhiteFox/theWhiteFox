@@ -6,7 +6,7 @@ categories: jekyll first month
 tags:       [JavaScript, AngularJS, Angular V6, React, jekyll, web apps]
 ---
 
-Learning JavaScript (JS) with AngularJS, Angular V6, React & jekyll to build simple web apps. I'm learning these frameworks to improve my understanding of JS and how it works to build easier maintain and edit apps.
+Learning JavaScript (JS) with AngularJS, Angular V6, React & jekyll to build simple web apps. I'm learning these frameworks to improve my understanding of JS and how it works to build easier to maintain and edit my apps.
 
 My AngualarJS apps hosted sites on Azure and GitHub pages
 

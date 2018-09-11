@@ -16,10 +16,13 @@
 
 .google-map, .profile-pic {
     // margin: 0rem 0 1rem 0;
-    border: 1px solid #e24c38;
+    border: 1px solid $my-color;
 }
 
-.my-name {
-font-family: Existence Light;
-color:red;
+.my-web-name {
+font-family: "existencelight", sans-serif;
+color:white;
+background-color: $my-color-2;
+padding: 0px 5px;
+font-size: large;
 }
