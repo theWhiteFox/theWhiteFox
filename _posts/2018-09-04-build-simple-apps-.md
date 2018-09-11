@@ -1,14 +1,51 @@
 ---
 layout: post
-title:  "Build simple apps"
+title:  "Build Simple Apps"
 date:   2018-09-04 17:55:41
 categories: jekyll first month
 tags:       [JavaScript, AngularJS, Angular V6, React, jekyll, web apps]
 ---
 
 Learning JavaScript (JS) with AngularJS, Angular V6, React & jekyll to build simple web apps. I'm learning these frameworks to improve my understanding of JS and how it works to build easier to maintain and edit my apps.
+<h2 class="text-center">Property & Event Binding</h2>
+<div class="row mb-3">
+  <div class="col-sm-4">
+    <div class="card text-center">
+      <div class="card-body post">
+        <h5 class="card-title darkslateblue">HTML Elements</h5>
+        <div class="post-text-btn">
+        <p class="card-text">Native Properties & Events</p>
+        <a href="#" class="btn btn-primary">More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-sm-4">
+    <div class="card text-center">
+      <div class="card-body post">
+        <h5 class="card-title mediumorchid">Directives</h5>
+        <div class="post-text-btn">
+        <p class="card-text">Custom Properties & Events</p>
+        <a href="#" class="btn btn-primary">More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="col-sm-4">
+    <div class="card text-center">
+      <div class="card-body post">
+        <h5 class="card-title seagreen">Components</h5>
+        <div class="post-text-btn">
+        <p class="card-text">Custom Properties & Events</p>
+        <a href="#" class="btn btn-primary">More</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
-My AngualarJS apps hosted sites on Azure and GitHub pages
+
+<h2>My AngualarJS apps hosted sites on Azure and GitHub pages</h2>
 
 - [azurewebsites.net](http://stefcakeangular.azurewebsites.net/#/list)
 

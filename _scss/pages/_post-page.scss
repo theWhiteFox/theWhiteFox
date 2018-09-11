@@ -1,0 +1,18 @@
+// colors
+$colors: darkslateblue mediumorchid seagreen steelblue;
+
+// loop!
+@each $color in $colors {
+  .#{$color} {
+      color:white;      
+    background: $color; 
+    padding: 20% 0%;
+  }
+}
+
+.card-body, .post {
+    padding: 0rem;
+}
+.post-text-btn {
+    padding:0% 5% 5% 5%;
+}
