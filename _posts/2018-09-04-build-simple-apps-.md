@@ -1,12 +1,22 @@
 ---
 layout: post
-title:  "Build Simple Apps"
-date:   2018-09-04 17:55:41
+title: Build Simple Apps
+date: {}
 categories: jekyll first month
-tags:       [JavaScript, AngularJS, Angular V6, React, jekyll, web apps]
+tags:
+  - JavaScript
+  - AngularJS
+  - Angular V6
+  - React
+  - jekyll
+  - web apps
+published: true
 ---
 
-Learning JavaScript (JS) with AngularJS, Angular V6, React & jekyll to build simple web apps. I'm learning these frameworks to improve my understanding of JS and how it works to build easier to maintain and edit my apps.
+Learning JavaScript (JS) with AngularJS, Angular V6, React & Ember to build simple web apps. I'm learning these frameworks to improve my understanding of JS and how it works to build easier to maintain and edit my apps. 
+
+I started with AngularJS then React, Ember, jekyll now I am working on working with Angular 6. from my what I have looked at so far I am choosing Angular even though it might be considered the hardest to learn. the reason I chose angular is it's Model View Controller(MVC) or Model View View Model(MVVM) unline React it's appentent rival however react can be used with Angular as React is the V in MVC. 
+
 <h2 class="text-center">Property & Event Binding</h2>
 <div class="row mb-3">
   <div class="col-sm-4">
@@ -61,8 +71,12 @@ AngularJS on GitHub
 
 - [AngularJS Registration Login](https://github.com/theWhiteFox/angularjs-registration-login)
 
-React on GitHub
+## React on GitHub
 
 - [Create a react app](https://thewhitefox.github.io/create-react-app/)
 
 - [React blog](https://github.com/theWhiteFox/reactjs-blog)
+
+## Links
+
+
