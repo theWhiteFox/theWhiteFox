@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Build Simple Apps
-date: {}
+date: 2018-09-04T00:00:00.000Z
 categories: jekyll first month
 tags:
   - JavaScript
@@ -78,5 +78,3 @@ AngularJS on GitHub
 - [React blog](https://github.com/theWhiteFox/reactjs-blog)
 
 ## Links
-
-
