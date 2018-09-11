@@ -27,6 +27,7 @@ layout: default
           <div class="home-card-content">   
             <p>
               <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a><br>
+            <div class="sub-title">{{ post.subtitle | escape }}</div> <br>
            
             {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
