@@ -17,7 +17,7 @@ subtile: JS Frameworks
 
 Learning JavaScript (JS) with AngularJS, Angular V6, React & Ember to build simple web apps. I'm learning these frameworks to improve my understanding of JS and how it works to build easier to maintain and edit my apps. 
 
-I started with AngularJS then React, Ember, jekyll now I am working on working with Angular 6. from my what I have looked at so far I am choosing Angular even though it might be considered the hardest to learn. the reason I chose angular is it's Model View Controller(MVC) or Model View View Model(MVVM) unline React it's appentent rival however react can be used with Angular as React is the V in MVC. 
+I started with AngularJS then React, Ember, jekyll now I am working with Angular 6. From my what I have looked at so far, I am choosing Angular. Even though it has a steep learning curve. The reason I chose angular is it's Model View Controller(MVC) or Model View View Model(MVVM).
 
 <h2 class="text-center">Property & Event Binding</h2>
 <div class="row mb-3">
