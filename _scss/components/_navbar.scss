@@ -8,6 +8,7 @@
 .navbar-toggler:hover {
   // @include rem(padding, 8px 15px 8px 15px !important);
   cursor: pointer; 
+  
 }
 
 .menu-icon {
@@ -15,6 +16,11 @@
   height: 22px; 
   // padding-bottom: 10px;
 };
+
+.menu-icon:hover svg path{
+  fill: #111;
+}
+
 
 
 .subcategory {
@@ -113,6 +119,7 @@
 .navbar-nav {
   li:last-child {
     .nav-link {
+      border-radius: .25rem;
       @include rem(padding, 12px 20px 12px 20px !important);
       margin-left: 18px;
       background-color: #e24c38;
@@ -173,5 +180,7 @@ a:hover {
 }
 
 .navbar-nav li:last-child .nav-link:hover {
-  color:cornflowerblue;
+  color: #e24c38;
+  background-color: rgba(0, 0, 0, 0.3);
+  
 }
