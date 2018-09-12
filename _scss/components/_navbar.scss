@@ -17,9 +17,10 @@
   // padding-bottom: 10px;
 };
 
-.menu-icon:hover svg path{
+svg:hover path { 
   fill: #111;
 }
+
 
 
 
@@ -182,5 +183,10 @@ a:hover {
 .navbar-nav li:last-child .nav-link:hover {
   color: #e24c38;
   background-color: rgba(0, 0, 0, 0.3);
-  
+  @include media-breakpoint-down(md) {
+    background-color: rgba(0, 0, 0, 0);
+  }
+  @include media-breakpoint-down(xs) {
+    background-color: rgba(0, 0, 0, 0);
+  }
 }
