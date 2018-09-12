@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+subtitle: "JavaScript"
 date:   2017-05-13 12:05:41 +0100
 categories: jekyll update
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Learning ReactJS"
+title:  "ReactJS"
+subtitle:  "JavaScript"
 date:   2018-03-07 20:09:41
 categories: Learning ReactJS
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Jekyll SASS
+title: Learn SASS
+subtitle: jekyll CSS
 date: 2017-06-10T00:00:00.000Z
 categories: jekyll second month
 published: true

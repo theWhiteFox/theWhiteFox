@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Adding gist"
+subtitle: "GitHub"
 date:   2017-06-05 15:12:41
 categories: jekyll second month
 ---

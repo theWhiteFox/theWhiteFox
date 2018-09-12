@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "theWhiteFox First Post"
+title:  "First Post"
+subtitle: "Ruby"
 date:   2017-05-13 17:55:41
 categories: jekyll first month
 ---

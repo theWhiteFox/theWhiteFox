@@ -1,6 +1,7 @@
 ---
 layout: post
-title: JavaScript Algorithms
+title: Algorithms
+subtitle: JavaScript
 date: 2018-04-13
 categories: JavaScript
 published: true
@@ -52,3 +53,5 @@ Algorithms
 [medium Tim Severien substitution cipher JS](https://medium.com/@TimSeverien/substitution-cipher-in-javascript-d530eb2d923d)
 
 [Reverse a string](https://medium.com/sonyamoisset/reverse-a-string-in-javascript-a18027b8e91c)
+
+[You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
