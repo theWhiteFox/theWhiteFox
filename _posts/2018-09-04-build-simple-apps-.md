@@ -2,7 +2,7 @@
 layout: post
 title: Build Simple Apps
 subtitle: JavaScript
-date: 2018-09-04T00:00:00.000Z
+date: {}
 categories: jekyll first month
 tags:
   - JavaScript
@@ -27,7 +27,7 @@ I started with AngularJS then React, Ember, jekyll now I am working with Angular
         <h5 class="card-title darkslateblue">HTML Elements</h5>
         <div class="post-text-btn">
         <p class="card-text">Native Properties & Events</p>
-        <a href="#" class="btn btn-primary">More</a>
+        <a href="https://angular.io/guide/elements" class="btn btn-primary">More</a>
         </div>
       </div>
     </div>
@@ -38,7 +38,7 @@ I started with AngularJS then React, Ember, jekyll now I am working with Angular
         <h5 class="card-title mediumorchid">Directives</h5>
         <div class="post-text-btn">
         <p class="card-text">Custom Properties & Events</p>
-        <a href="#" class="btn btn-primary">More</a>
+        <a href="https://angular.io/guide/attribute-directives" class="btn btn-primary">More</a>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@ I started with AngularJS then React, Ember, jekyll now I am working with Angular
         <h5 class="card-title seagreen">Components</h5>
         <div class="post-text-btn">
         <p class="card-text">Custom Properties & Events</p>
-        <a href="#" class="btn btn-primary">More</a>
+        <a href="https://angular.io/guide/architecture-components" class="btn btn-primary">More</a>
         </div>
       </div>
     </div>
