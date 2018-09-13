@@ -57,11 +57,8 @@ I started with AngularJS then React, Ember, jekyll now I am working with Angular
 </div>
 
 
-<h2>My AngualarJS apps hosted sites on Azure and GitHub pages</h2>
-
-- [azurewebsites.net](http://stefcakeangular.azurewebsites.net/#/list)
-
-- [github.io Angular Fundamentals]( http://thewhitefox.github.io/Angular-Fundamentals/#/main)
+## AngualarJS apps 
+Azure and GitHub pages 9 Love to Hate GoT Characters [azurewebsites.net](http://stefcakeangular.azurewebsites.net/#/list) & GitHub Viewer enter GitHub username and the app diaplys the username's repos [github.io Angular Fundamentals]( http://thewhitefox.github.io/Angular-Fundamentals/#/main)
 
 AngularJS on GitHub
 
