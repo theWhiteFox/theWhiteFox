@@ -2,7 +2,7 @@
 layout: post
 title: Build Simple Apps
 subtitle: JavaScript
-date: {}
+date: 2018-09-04
 categories: jekyll first month
 tags:
   - JavaScript
