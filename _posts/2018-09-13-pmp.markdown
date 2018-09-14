@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Project Management Professional Cert
+title: Project Management Professional
 subtitle: Project Management
 date: 2018-09-13T00:00:00.000Z
 categories: Project Management
 published: true
 ---
 
-[Project Management Professional(PMP)](https://www.pmi.org/certifications/types/project-management-pmp) I am learning to improve on my project management skills to design and build Aeb Apps.
+[Project Management Professional(PMP)](https://www.pmi.org/certifications/types/project-management-pmp) I am learning to improve on my project management skills to design and build Web Apps.
+
+PROJECT, PROGRAM, PORTFOLIO, AND OPERATIONS MANAGEMENT
 
 [Project Management Body of Knowledge](https://g.co/kgs/ziC8gz)
