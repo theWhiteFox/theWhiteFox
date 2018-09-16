@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Build Simple Apps
+title: Angular
 subtitle: JavaScript
-date: 2018-09-04
+date: 2018-09-04T00:00:00.000Z
 categories: jekyll first month
 tags:
   - JavaScript
@@ -17,7 +17,7 @@ subtile: JS Frameworks
 
 Learning JavaScript (JS) with AngularJS, Angular V6, React & Ember to build simple web apps. I'm learning these frameworks to improve my understanding of JS and how it works to build easier to maintain and edit my apps. 
 
-I started with AngularJS then React, Ember, jekyll now I am working with Angular 6. From my what I have looked at so far, I am choosing Angular. Even though it has a steep learning curve. The reason I chose angular is it's Model View Controller(MVC) or Model View View Model(MVVM).
+I started with AngularJS then React, Ember, now I am working with Angular 6. From my what I have looked at so far, I am choosing Angular. Even though it has a steep learning curve it's a Model View Controller(MVC) or Model View View Model(MVVM) framework developed by Google.
 
 <h2 class="text-center">Property & Event Binding</h2>
 <div class="row mb-3">
