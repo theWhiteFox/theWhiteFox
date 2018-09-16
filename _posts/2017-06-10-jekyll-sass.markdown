@@ -2,14 +2,16 @@
 layout: post
 title: Learn SASS
 subtitle: jekyll CSS
-date: 2017-06-10T00:00:00.000Z
+date: {}
 categories: jekyll second month
 published: true
 ---
 
-Edit mimima theme while learning SASS
+Learning [SASS](https://sass-lang.com) while building my jekyll blog. SASS 
 
-![My helpful screenshot]({{ site.url }}/assets/Screenshot-from-2017-06-10.png)
+[medium getting started with SASS](https://medium.com/@thejasonfile/getting-started-with-sass-dedb271bdf5a)
+
+[jekyll SASS](https://jekyllrb.com/docs/assets/)
 
 [tutsplus getting to know libsass](https://webdesign.tutsplus.com/articles/getting-to-know-libsass--cms-23114)
 
