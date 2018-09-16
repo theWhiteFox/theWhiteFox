@@ -1,21 +1,17 @@
 ---
 layout: post
-title:  "ReactJS"
-subtitle:  "JavaScript"
-date:   2018-03-07 20:09:41
+title: React
+subtitle: JavaScript
+date: {}
 categories: Learning ReactJS
+published: true
 ---
 
-#### What is ReactJS & why I want to learn it
-I want to learn ReactJS  
+[React](https://reactjs.org/) Facebook's Javascript library is not an full [Model View Controller](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture) (MVC) framework  It is the view a full MVC which is makes the learning curve easier than lets say Angular Ember or Vue
 
-#### Ubuntu Cli & GitHub Pages
-I gonna start building a ReactJS app using Ubuntu cli and GitHub Pages.
+I gonna start building a ReactJS app using Ubuntu cli and GitHub Pages [create-react-app](https://thewhitefox.github.io/create-react-app/)
 
-#### What I have got so far
-GitHub Pages [create-react-app](https://thewhitefox.github.io/create-react-app/)
-
-#### Links
+## Links
 
 [why ReactJS](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76 "why ReactJS title")
 
