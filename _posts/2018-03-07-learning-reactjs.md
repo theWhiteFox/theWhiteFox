@@ -9,7 +9,7 @@ published: true
 
 [React](https://reactjs.org/) Facebook's Javascript library is not an full [Model View Controller](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture) (MVC) framework  It is the view a full MVC which is makes the learning curve easier than lets say Angular Ember or Vue
 
-![mdn model view controller](https://mdn.mozillademos.org/files/16042/model-view-controller-light-blue.png)
+![mdn model view controller =250x](https://mdn.mozillademos.org/files/16042/model-view-controller-light-blue.png)
 
 I gonna start building a ReactJS app using Ubuntu cli and GitHub Pages [create-react-app](https://thewhitefox.github.io/create-react-app/)
 
