@@ -11,7 +11,7 @@ published: true
 
 ## PROJECT, PROGRAM, PORTFOLIO, AND OPERATIONS MANAGEMENT
 
-| Effective project management                 | absence of project management |   
+| Effective project management                 | Absence of project management may |   
 |----------------------------------------------|-------------------------------|
 | Meet business objectives                     | Missed deadlines | 
 | Satisfy stakeholder expectations             | Cost overruns | 
@@ -20,7 +20,7 @@ published: true
 | Deliver the right products at the right time | Uncontrolled expansion of the project | 
 | Resolve problems and issues                  | Loss of reputation for the organisation | 
 | Respond to risks in a timely manner          | Unsatisfied stakholders and |
-| Optimisie the use of organisational resources | Failure in achieving the objectives for which the project was undertaken |
+| Optimize the use of organisational resources ||
 | Identify, recover or terminate failing projects | 
 | Manage constraits (e.g., scope, quality, schudle, costs, resources) | 
 | Balance the infulence of constraints on the project (e.g., increased scope may increase cost or schedule) | 
