@@ -27,8 +27,7 @@ published: true
 | Manage change in a better manner | |
 
 
-   <h2 class="text-center">Organizational Project Management  
-      </h2>
+<h2 class="text-center mb-3 mt-3">Organizational Project Management</h2>
 <div class="table-responsive">
   <table class="table">
     <thead class="thead-dark"> 
