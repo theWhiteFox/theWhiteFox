@@ -2,13 +2,28 @@
 layout: post
 title: Project Management Professional
 subtitle: Project Management
-date: 2018-09-13T00:00:00.000Z
+date: {}
 categories: Project Management
 published: true
 ---
 
 [Project Management Professional(PMP)](https://www.pmi.org/certifications/types/project-management-pmp) I am learning to improve on my project management skills to design and build Web Apps.
 
-PROJECT, PROGRAM, PORTFOLIO, AND OPERATIONS MANAGEMENT
+## PROJECT, PROGRAM, PORTFOLIO, AND OPERATIONS MANAGEMENT
+
+| Effective project management                 | absence of project management   |   
+|----------------------------------------------|-----------|
+| Meet business objectives                     | Missed deadlines        | 
+| Satisfy stakeholder expectations             | Cost overruns      | 
+| Be more predictive                           | Poor quality         |  
+| Increase chances of success                  | Rework      | 
+| Deliver the right products at the right time | Uncontrolled expansion of the project      | 
+| Resolve problems and issues                  | Loss of reputation for the organisation    | 
+| Respond to risks in a timely manner          | Unsatisfied stakholders and 
+| Optimisie the use of organisational resources | Failure in achieving the objectives for which the project was undertaken
+| Identify, recover or terminate failing projects | 
+| Manage constraits (e.g., scope, quality, schudle, costs, resources) | 
+| Balance the infulence of constraints on the project (e.g., increased scope may increase cost or schedule) | 
+| Manage change in a better manner | 
 
 [Project Management Body of Knowledge](https://g.co/kgs/ziC8gz)
