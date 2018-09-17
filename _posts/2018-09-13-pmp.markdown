@@ -20,10 +20,10 @@ published: true
 | Deliver the right products at the right time | Uncontrolled expansion of the project | 
 | Resolve problems and issues                  | Loss of reputation for the organisation | 
 | Respond to risks in a timely manner          | Unsatisfied stakholders and |
-| Optimize the use of organisational resources ||
-| Identify, recover or terminate failing projects | 
-| Manage constraits (e.g., scope, quality, schudle, costs, resources) | 
-| Balance the infulence of constraints on the project (e.g., increased scope may increase cost or schedule) | 
-| Manage change in a better manner | 
+| Balance the infulence of constraints on the project (e.g., increased scope may increase cost or schedule) | Failure in achieving the objectives for which the project was undertaken |
+| Identify, recover or terminate failing projects | |
+| Manage constraits (e.g., scope, quality, schudle, costs, resources) | |
+| Optimize the use of organisational resources  | |
+| Manage change in a better manner | |
 
 [Project Management Body of Knowledge](https://g.co/kgs/ziC8gz)
