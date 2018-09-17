@@ -29,10 +29,9 @@ published: true
 
 <div class="table-responsive">
   <table class="table">
-
     <thead class="thead-dark">
-    <tr scope="col text-center">Organizational Project Management  
-      </tr>
+    <h1 scope="text-center">Organizational Project Management  
+      </h1>
       <tr>
         <th scope="col"></th>
         <th scope="col">Projects</th>
