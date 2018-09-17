@@ -27,11 +27,11 @@ published: true
 | Manage change in a better manner | |
 
 
+   <h2 class="text-center">Organizational Project Management  
+      </h2>
 <div class="table-responsive">
   <table class="table">
-    <thead class="thead-dark">
-    <h1 scope="text-center">Organizational Project Management  
-      </h1>
+    <thead class="thead-dark"> 
       <tr>
         <th scope="col"></th>
         <th scope="col">Projects</th>
