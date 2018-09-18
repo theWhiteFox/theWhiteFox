@@ -6,21 +6,22 @@ date: 2018-04-13
 categories: JavaScript
 published: true
 ---
-#### Why learn to write algorithms in JS
+
 I love to cook (especially sauces) and eat delicious food. I love to read and learn new recipes. Algorithms for me are like recipes in programming. As my cooking skills have improved by learning recipes, I hope my programming skills will improve by learning algorithms. I chose JS as the language to learn these algorithms / recipes because it's the language of the web and a language I want to master.
 
 I also want to improve my problem solving / JS writing skills, these are some [JS algorithms](http://thewhitefox.github.io/Algorithms-JS/) that I will understand, not just do. 
 
 I am using [GitHub Pages](https://pages.github.com/), [gists theWhiteFox](https://gist.github.com/theWhiteFox/) and [repl.it](https://repl.it) to write, debug, display and output the code.
 
-Algorithms
+# The Algorithms I have chosen to learn
+
 - Fibonacci
-  1. a geat way to learn recursion
+  1. a great way to learn recursion
 - FizzBuzz
   1. an interesting way to test my programming skills
 - Dijkstra
-  1. impove my understanding of networking with JS 
-- Harmless Ransome Note
+  1. improve my understanding of networking with JS 
+- Harmless Ransom Note
   1. Big O notation
 - Palindrome
   1. String & array manipulation
@@ -29,8 +30,7 @@ Algorithms
   1. encryption 
 - Reverse a string
 
-<br/>
-#### Links
+## Links
 
 [thewhitefox JS Algorithms](http://thewhitefox.github.io/Algorithms-JS/)
 
