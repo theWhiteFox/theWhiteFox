@@ -2,7 +2,7 @@
 layout: post
 title: Algorithms
 subtitle: JavaScript
-date: 2018-04-13
+date: {}
 categories: JavaScript
 published: true
 ---
@@ -32,7 +32,7 @@ I am using [GitHub Pages](https://pages.github.com/), [gists theWhiteFox](https:
 
 ## Links
 
-[thewhitefox JS Algorithms](http://thewhitefox.github.io/Algorithms-JS/)
+[Two Sum Algorithm ES6](http://thewhitefox.github.io/algorithms-in-js/two-sum/index.html)
 
 [Why are algorithms so important](https://www.quora.com/Why-are-algorithms-so-important)
 
