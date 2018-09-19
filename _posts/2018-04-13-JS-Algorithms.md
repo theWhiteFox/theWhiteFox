@@ -16,7 +16,10 @@ I am using [GitHub Pages](https://pages.github.com/), [gists theWhiteFox](https:
 # The Algorithms I have chosen to learn
 
 - [Two Sum Algorithm ES6](http://thewhitefox.github.io/algorithms-in-js/two-sum/index.html)
-  1. Check array for sum of two values. Learn Big O notation
+	1. Check array for sum of two values 
+	2. Learn Big O notation
+
+
 
 - Fibonacci
   1. a great way to learn recursion
@@ -41,7 +44,7 @@ I am using [GitHub Pages](https://pages.github.com/), [gists theWhiteFox](https:
 
 ## Links
 
-
+[https://Rob Bell beginners guide to big o notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 
 [Why are algorithms so important](https://www.quora.com/Why-are-algorithms-so-important)
 
