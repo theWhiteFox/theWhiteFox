@@ -7,3 +7,50 @@
   -o-transition: $var, $duration, $timing-function;
   transition: $var, $duration, $timing-function;
 }
+
+@mixin circle($size, $color, $display) {
+  display: $display;
+  line-height: $size;
+  width: $size;
+  height: $size;
+  background: $color;
+  -webkit-border-radius: $size / 2;
+  -moz-border-radius: $size / 2;
+  border-radius: $size / 2;
+}
+
+// .element{
+//     @include arrow(top, #000, 50px);
+// }
+@mixin arrow-direction($direction, $color, $size) {
+  display: inline-block;
+  height: $size;
+  width: $size;
+  margin-right: 1rem;  
+
+  @if $direction == "top" {
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px 0px 0px 2px;
+    transform: rotate(45deg);
+  } @else if $direction == "right" {
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: black;
+    border-width: 0px 0px 2px 2px;
+    transform: rotate(45deg);
+  } @else if $direction == "bottom" {
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: black;
+    border-width: 0px 2px 2px 0px;
+    transform: rotate(45deg);
+  } @else if $direction == "left" {
+    box-sizing: border-box;
+    border-style: solid;
+    border-color: black;
+    border-width: 2px 2px 0px 0px;
+    transform: rotate(45deg);
+  }
+}

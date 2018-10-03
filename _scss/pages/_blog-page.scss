@@ -44,3 +44,10 @@
   font-size: small;
 }
 
+.circle {
+  @include circle(11vw, #999, inline-block);
+}
+
+.element{
+    @include arrow-direction(left, #000, 2vw);   
+}
