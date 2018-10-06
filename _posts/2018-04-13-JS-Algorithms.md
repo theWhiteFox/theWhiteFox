@@ -19,8 +19,6 @@ I am using [GitHub Pages](https://pages.github.com/), [gists theWhiteFox](https:
 	1. Check array for sum of two values 
 	2. Learn Big O notation
 
-
-
 - Fibonacci
   1. a great way to learn recursion
   
