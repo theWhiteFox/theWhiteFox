@@ -110,24 +110,24 @@ $(".morelink").click(function() {
   return false;
 });
 
-
-
-
-  var selectedClass = "";
-  $(".fil-cat").click(function(){ 
-  selectedClass = $(this).attr("data-rel"); 
-   $("#portfolio").fadeTo(100, 0.1);
-  $("#portfolio div").not("."+selectedClass).fadeOut().removeClass('scale-anm');
+var selectedClass = "";
+$(".fil-cat").click(function() {
+  selectedClass = $(this).attr("data-rel");
+  $("#portfolio").fadeTo(100, 0.1);
+  $("#portfolio div")
+    .not("." + selectedClass)
+    .fadeOut()
+    .removeClass("scale-anm");
   setTimeout(function() {
-    $("."+selectedClass).fadeIn().addClass('scale-anm');
+    $("." + selectedClass)
+      .fadeIn()
+      .addClass("scale-anm");
     $("#portfolio").fadeTo(300, 1);
-  }, 300); 
-  
+  }, 300);
 });
-console.log("Hello World")
 
-var contactform = document.getElementById("contact-form");
-contactform.setAttribute(
+
+$("#contact-form").attr(
   "action",
   "//formspree.io/" + "ste" + "@" + "thewhitefox" + "." + "ninja"
 );
