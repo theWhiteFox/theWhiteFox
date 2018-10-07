@@ -6,6 +6,7 @@ footer {
   color: #888;
   a {
     color: #888;
+    text-decoration: none;
     &:hover {
       color: #fff;
       text-decoration: none;
@@ -41,4 +42,8 @@ footer {
     content:"-";
     color: #fff;
   }
+}
+
+.footer-soc a {
+  text-decoration: none;
 }
