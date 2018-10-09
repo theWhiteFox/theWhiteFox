@@ -21,7 +21,6 @@ This is the git repository for `theWhiteFox.ninja` Web App :boom:
 |            | NPM (sudo apt-get install npm)           |                             |
 |            | Gulp (sudo npm install gulp -g)          |                             |
 |            | ShuffleJS                                |                             |
-|            | Gulp                                     |                             |
 |            | Font Awesome                             |                             |
 |            | Google Analytics                         |                             |
 |            | imagesLoaded                             |                             |
