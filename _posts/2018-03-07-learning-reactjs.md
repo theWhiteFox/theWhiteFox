@@ -2,12 +2,12 @@
 layout: post
 title: React
 subtitle: JavaScript
-date: 2018-03-07T00:00:00.000Z
+date: {}
 categories: Learning ReactJS
 published: true
 ---
 
-[React](https://reactjs.org/) Facebook's Javascript is a library not an full [Model View Controller](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture) (MVC) framework. It is the view in MVC which is makes the learning curve easier than lets say Angular Ember or Vue, it can also be used with these MVC frameworks.
+[React](https://reactjs.org/) Facebook's Javascript is a library not a full [Model View Controller](https://developer.mozilla.org/en-US/docs/Web/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture) (MVC) framework. It is the view in MVC which is makes the learning curve easier than lets say Angular Ember or Vue, it can also be used with these MVC frameworks.
 
 ![mdn model view controller](https://mdn.mozillademos.org/files/16042/model-view-controller-light-blue.png =100x)
 
