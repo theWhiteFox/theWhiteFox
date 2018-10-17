@@ -11,7 +11,7 @@ published: true
 
 ![mdn model view controller](https://mdn.mozillademos.org/files/16042/model-view-controller-light-blue.png =100x)
 
-I gonna start building a ReactJS app using Ubuntu cli and GitHub Pages [create-react-app](https://thewhitefox.github.io/create-react-app/)
+I'm gonna start building a ReactJS app using Ubuntu cli and GitHub Pages [create-react-app](https://thewhitefox.github.io/create-react-app/)
 
 ## Links
 
