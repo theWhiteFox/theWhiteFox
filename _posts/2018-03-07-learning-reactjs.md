@@ -2,7 +2,7 @@
 layout: post
 title: React
 subtitle: JavaScript
-date: {}
+date: 2018-04-07T00:00:00.000Z
 categories: Learning ReactJS
 published: true
 ---
