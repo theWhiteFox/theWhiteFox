@@ -1,12 +1,12 @@
 ---
 published: false
 layout: post
-subtitle: JavaScript
-date: 2018-09-20T00:00:00.000Z
-categories: javascript
+subtitle: Learning
+date: 2018-11-24T00:00:00.000Z
+categories: php
 tags:
-  - JavaScript
-subtile: ECMAScript(ES)
+  - php
+subtile: php Frameworks
 ---
 ## Learn ECMAScript (ES6)
 
@@ -14,4 +14,4 @@ subtile: ECMAScript(ES)
 - const
 - => arrow function
 - modules
-- 
+-
