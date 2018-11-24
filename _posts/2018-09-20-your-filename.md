@@ -1,17 +1,11 @@
 ---
-published: false
 layout: post
-subtitle: Learning
+title: Laravel
+subtitle: PHP
 date: 2018-11-24T00:00:00.000Z
 categories: php
 tags:
-  - php
-subtile: php Frameworks
+  - Jphp
+published: true
+subtile: PHP Framework
 ---
-## Learn ECMAScript (ES6)
-
-- let
-- const
-- => arrow function
-- modules
--
