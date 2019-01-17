@@ -2,7 +2,7 @@
 layout: post
 title: Learn SASS
 subtitle: jekyll CSS
-date: {}
+date: 2018-09-07T00:00:00.000Z
 categories: jekyll second month
 published: true
 ---
