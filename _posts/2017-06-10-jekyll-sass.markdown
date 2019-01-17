@@ -2,12 +2,12 @@
 layout: post
 title: Learn SASS
 subtitle: jekyll CSS
-date: 2018-03-07T00:00:00.000Z
+date: {}
 categories: jekyll second month
 published: true
 ---
 
-Learning [SASS](https://sass-lang.com) while building my jekyll blog. The benefits using SASS over CSS [Cascading Style Sheets](https://www.w3.org/Style/CSS/ "CSS"). CSS a controls the style for the presentation of Web pages within HTML it includes colors, layout, and fonts. This is fine for small apps however once the app becomes bigger and more dev are working on it becomes unwieldy also makes sense to be able to split a large css file into partials and then import those partials compile then into a main css file.
+Learning [SASS](https://sass-lang.com) building this blog. What are the benefits learning SASS. CSS [Cascading Style Sheets](https://www.w3.org/Style/CSS/ "CSS") controls the style for the presentation of Web pages within HTML it includes colors, layout, and fonts. CSS is fine for small apps however once the app becomes bigger and more developers are working on it, becomes soon becomes unwieldy. It also makes sense to be able to split a large CSS file into partials and then import those partials compile then into a main css file.
 
 Mixins
 
