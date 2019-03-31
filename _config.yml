@@ -23,9 +23,7 @@ keep_files:
 include: ['_pages']
 
 sass:
-    load_paths:
-        - css
-        - node_modules
+    sass_dir: css
 
 # Server Config options
 livereload: true     # You no longer need to include --livereload
