@@ -15,9 +15,9 @@
   color:gray;  
 }
 
-.post-meta {
-    font-size: xx-small;
-}
+// .post-meta {
+//     font-size: xx-small;
+// }
 
 .home-card {
   margin-bottom: 5%;
@@ -40,9 +40,9 @@
   filter: alpha(opacity=40); /* msie */  
 }
 
-.sub-title {
-  font-size: small;
-}
+// .sub-title {
+//   font-size: small;
+// }
 
 .circle {
   @include circle(11vw, #999, inline-block);

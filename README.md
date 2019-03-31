@@ -12,24 +12,24 @@ This is the git repository for `theWhiteFox.ninja` Web App :boom:
 
 | Languages   | Requirements / dependencies              | Editors                     |
 | ---------- | :--------------------------------------- | :-------------------------- |
-| HTML5      | Bootstrap4                               | VS Code                     |
+| HTML5      | Bootstrap 4                              | VS Code                     |
 | CSS3       | jQuery                                   | [prose.io](http://prose.io) |
 | JS(es6)    | Ruby (refer to jekyll documentation)     |                             |
 | Ruby 2.5.1 | RubyGems (refer to jekyll documentation) |                             |
-| SVG        | Jekyll                                   |                             |
+| SVG        | Jekyll 3.7.4                             |                             |
 |            | NodeJS (sudo apt-get install nodejs)     |                             |
 |            | NPM (sudo apt-get install npm)           |                             |
-|            | Gulp (sudo npm install gulp -g)          |                             |
+|            | Jekyll Livereload                        |                             |
 |            | ShuffleJS                                |                             |
 |            | Font Awesome                             |                             |
 |            | Google Analytics                         |                             |
 |            | imagesLoaded                             |                             |
-|            | Browsersync                              |                             |
+
 
 ## Installation
 
 1. Clone or download this repository
 
-2. Run 'npm install' via cmd line to get all of the node dependencies, this will also install Gulp for compiling scss and js.
+2. Run 'npm install' via cmd line to get all of the node dependencies
 
-3. Run "gulp" via the cmd line to compile uncompressed sass and js as well as build the website in _site. It will also start Browsersync to watch for changes
+3. Run bundle exec serve

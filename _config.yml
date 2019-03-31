@@ -21,3 +21,9 @@ keep_files:
   - _site/js
 
 include: ['_pages']
+
+sass:
+    sass_dir: css
+
+# Server Config options
+livereload: true     # You no longer need to include --livereload
