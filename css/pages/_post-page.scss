@@ -1,5 +1,5 @@
 // colors
-$colors: darkslateblue mediumorchid seagreen steelblue;
+$colors: "darkslateblue", "mediumorchid", "seagreen", "steelblue";
 
 // loop!
 @each $color in $colors {
