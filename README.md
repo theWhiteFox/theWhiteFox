@@ -1,6 +1,6 @@
 # theWhiteFox
 
-[![Build Status](https://travis-ci.org/theWhiteFox/theWhiteFox.svg?branch=master)](https://travis-ci.org/theWhiteFox/theWhiteFox)
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io)
 
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
