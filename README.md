@@ -4,6 +4,8 @@
 
 [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io) 
 
+[![codebeat badge](https://codebeat.co/badges/121e5795-b2a2-48c8-b603-5ed2a591a36b)](https://codebeat.co/projects/github-com-thewhitefox-thewhitefox-gh-pages)
+
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
 This is the git repository for `theWhiteFox.ninja` Web App :boom:
