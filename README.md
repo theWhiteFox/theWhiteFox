@@ -1,6 +1,8 @@
 # theWhiteFox
 
-[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io)
+[![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io) 
+
+[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox)
 
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
