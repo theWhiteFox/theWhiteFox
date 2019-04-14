@@ -1,4 +1,13 @@
-/* Global */
+/*!==============================
+ * Global CSS
+ 
+    h1              { font-size: 2em; margin: .67em 0 }
+    h2              { font-size: 1.5em; margin: .75em 0 }
+    h3              { font-size: 1.17em; margin: .83em 0 }
+    h4              { margin: 1.12em 0 }
+    h5              { font-size: .83em; margin: 1.5em 0 }
+    h6              { font-size: .75em; margin: 1.67em 0 }
+ */
 @font-face {
   font-family: "Fira Code";
   src: url(../fonts/fira-code/eot/FiraCode-Light.eot);
@@ -38,21 +47,21 @@
   box-sizing: border-box;
 }
 
+$my-color: #e24c38;
+$my-color-2: #662219;
+
 body,
 html {
   height: 100%;
+  overflow-x: hidden;
+  background-color: #ddd;
 }
 
 body {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.4;
   font-family: "Fira Code", sans-serif;
   background-color: #faf6ec;
-}
-
-
-html {
-  background-color: #ddd;
 }
 
 img {
@@ -65,8 +74,20 @@ img {
   }
 }
 
-h1 {
-  font-family: "existencelight", sans-serif;
+.font_small {
+	font-size: 0.707em;
+}
+small {
+	font-size: 0.707em;
+}
+figure {
+	margin-bottom: 1.3em;
+}
+ol {
+	margin-bottom: 1.3em;
+}
+p {
+	margin-bottom: 1.3em;
 }
 
 ul {
@@ -75,5 +96,35 @@ ul {
   list-style-type: none;
 }
 
-$my-color: #e24c38;
-$my-color-2: #662219;
+a {
+	-webkit-transition: 0.3s all;
+	transition: 0.3s all;
+	color: #f4bd00;
+	&:active {
+		color: #000;
+		text-decoration: none;
+	}
+	&:focus {
+		color: #000;
+		text-decoration: none;
+	}
+	&:hover {
+		color: #000;
+		text-decoration: none;
+	}
+}
+a.hover-reverse {
+	color: #000;
+	&:active {
+		color: #f4bd00;
+		text-decoration: none;
+	}
+	&:focus {
+		color: #f4bd00;
+		text-decoration: none;
+	}
+	&:hover {
+		color: #f4bd00;
+		text-decoration: none;
+	}
+}

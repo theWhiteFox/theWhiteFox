@@ -1,16 +1,32 @@
 /* Headings */
-
 h1 {
-  font-size: 24px;  
   font-family: "existencelight", sans-serif;
+  font-size: 2em; 
+  margin: .67em 0;
+	font-weight: 400;
+	line-height: 1.2;
+	margin-top: 0;
 }
 
 h2 {
-  font-size: 20px;
-  font-family: "existencelight", sans-serif;
+	font-family: "existencelight", sans-serif;
+  font-size: 1.5em; 
+  margin: .75em 0;
+	font-weight: 400;
+	line-height: 1.2;	
 }
 
 h3 {
-  font-size: 16px;
-  font-family: "existencelight", sans-serif;
+	font-family: "existencelight", sans-serif;
+  font-size: 1.17em; 
+  margin: .83em 0;
+	font-weight: 400;
+	line-height: 1.2;
+}
+h4 {
+	font-family: "existencelight", sans-serif;
+	margin: .83em 0;
+	font-weight: 400;
+	line-height: 1.2;
+	font-size: 1em;
 }
