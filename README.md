@@ -4,8 +4,6 @@
 | ---------- | :--------------------------------------- | :-------------------------- |
 
 
-
-
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
 This is the git repository for `theWhiteFox.ninja` Web App :boom:
@@ -14,21 +12,15 @@ This is the git repository for `theWhiteFox.ninja` Web App :boom:
 
 [jekyll installation](https://jekyllrb.com/docs/installation/)
 
-| Languages   | Requirements / dependencies              | Editors                     |
-| ---------- | :--------------------------------------- | :-------------------------- |
-| HTML5      | Bootstrap 4                              | VS Code                     |
-| CSS3       | jQuery                                   | [prose.io](http://prose.io) |
-| JS(es6)    | Ruby (refer to jekyll documentation)     |                             |
-| Ruby 2.5.1 | RubyGems (refer to jekyll documentation) |                             |
-| SVG        | Jekyll 3.7.4                             |                             |
-|            | NodeJS (sudo apt-get install nodejs)     |                             |
-|            | NPM (sudo apt-get install npm)           |                             |
-|            | Jekyll Livereload                        |                             |
-|            | ShuffleJS                                |                             |
-|            | Font Awesome                             |                             |
-|            | Google Analytics                         |                             |
-|            | imagesLoaded                             |                             |
-
+| Languages   | Requirements                            | / dependencies                 | Editors                     |
+| ---------- | :--------------------------------------- | :----------------------------- | :-------------------------- |
+| HTML5      | Bootstrap 4                              | NPM (sudo apt-get install npm) | VS Code                     |
+| CSS3       | jQuery                                   | Jekyll Livereload              | [prose.io](http://prose.io) |
+| JS(es6)    | Ruby (refer to jekyll documentation)     | ShuffleJS                      |                             |
+| Ruby 2.5.1 | RubyGems (refer to jekyll documentation) | Font Awesome                   |                             |
+| SVG        | Jekyll 3.7.4                             | Google Analytics               |                             |
+|            | NodeJS (sudo apt-get install nodejs)     | imagesLoaded                   |                             |
+   
 
 ## Installation
 
