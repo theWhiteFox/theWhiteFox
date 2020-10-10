@@ -8,24 +8,12 @@
 
 This is the git repository for `theWhiteFox.ninja` Web App :boom:
 
-[theWhiteFox.ninja](http://theWhiteFox.ninja) is a static site hosted by [GitHub pages](http://pages.github.com/).
-
-[jekyll installation](https://jekyllrb.com/docs/installation/)
-
-| Languages   | Requirements                            | / dependencies                 | Editors                     |
-| ---------- | :--------------------------------------- | :----------------------------- | :-------------------------- |
-| HTML5      | Bootstrap 4                              | NPM (sudo apt-get install npm) | VS Code                     |
-| CSS3       | jQuery                                   | Jekyll Livereload              | [prose.io](http://prose.io) |
+| Languages   | Requirements                            | / dependencies                 | Editors                     | Other |
+| ---------- | ---------------------------------------: | :----------------------------- | :-------------------------- | :---- |
+| HTML5      | Bootstrap 4                              | NPM (sudo apt-get install npm) | VS Code                     | SVG   |
+| CSS3       | jQuery                                   | Jekyll Livereload              | [prose.io](http://prose.io) | [GitHub pages](http://pages.github.com/)|
 | JS(es6)    | Ruby (refer to jekyll documentation)     | ShuffleJS                      |                             |
 | Ruby 2.5.1 | RubyGems (refer to jekyll documentation) | Font Awesome                   |                             |
-| SVG        | Jekyll 3.7.4                             | Google Analytics               |                             |
+|            | Jekyll 3.7.4                             | Google Analytics               |                             |
 |            | NodeJS (sudo apt-get install nodejs)     | imagesLoaded                   |                             |
-   
-
-## Installation
-
-1. Clone or download this repository
-
-2. Run 'npm install' via cmd line to get all of the node dependencies
-
-3. Run bundle exec serve
+  
