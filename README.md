@@ -15,5 +15,5 @@ This is the git repository for `theWhiteFox.ninja` Web App :boom:
 | JS(es6)    | Ruby (refer to [jekyll docs](https://jekyllrb.com/docs/))| ShuffleJS      |                             | Gimp |
 | Ruby 2.5.1 | RubyGems (refer to [jekyll docs](https://jekyllrb.com/docs/ruby-101/))| Font Awesome |                  | Oh My Zsh |
 |            | Jekyll 3.7.4                             | Google Analytics               |                             | [formspree](https://formspree.io/)
-|            | Node & or NVM ( nvm use v11.15.0)        | imagesLoaded                   |                             | [Disqusisqus](https://help.disqus.com/en/articles/1717053-what-is-disqus) |
+|            | Node & or NVM ( nvm use v11.15.0)        | imagesLoaded                   |                             | [Disqus](https://help.disqus.com/en/articles/1717053-what-is-disqus) |
   
