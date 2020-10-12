@@ -12,8 +12,8 @@ This is the git repository for `theWhiteFox.ninja` Web App :boom:
 | ---------- | ---------------------------------------: | :----------------------------- | :-------------------------- | :---- |
 | HTML5      | Bootstrap 4                              | NPM (sudo apt-get install npm) | VS Code                     | SVG   |
 | CSS3       | jQuery                                   | Jekyll Livereload              | [prose.io](http://prose.io) | [GitHub pages](http://pages.github.com/)|
-| JS(es6)    | Ruby (refer to jekyll documentation)     | ShuffleJS                      |                             |
-| Ruby 2.5.1 | RubyGems (refer to jekyll documentation) | Font Awesome                   |                             |
+| JS(es6)    | Ruby (refer to jekyll documentation)     | ShuffleJS                      |                             | Ubuntu |
+| Ruby 2.5.1 | RubyGems (refer to jekyll documentation) | Font Awesome                   |                             | Gimp |
 |            | Jekyll 3.7.4                             | Google Analytics               |                             |
 |            | NodeJS (sudo apt-get install nodejs)     | imagesLoaded                   |                             |
   
