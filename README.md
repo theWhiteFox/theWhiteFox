@@ -8,12 +8,12 @@
 
 This is the git repository for `theWhiteFox.ninja` Web App :boom:
 
-| Languages   | Requirements                            | / dependencies                 | Editors                     | Other |
-| ---------- | ---------------------------------------: | :----------------------------- | :-------------------------- | :---- |
-| HTML5      | Bootstrap 4                              | NPM (sudo apt-get install npm) | VS Code                     | SVG   |
+| Languages   | Requirements                            | / dependencies                 | Editors                     | Other | OS |
+| ---------- | ---------------------------------------: | :----------------------------- | :-------------------------- | :---- | :-- |
+| HTML5      | Bootstrap 4                              | NPM (sudo apt-get install npm) | VS Code                     | SVG   | Ubuntu |
 | CSS3       | jQuery                                   | Jekyll Livereload              | [prose.io](http://prose.io) | [GitHub pages](http://pages.github.com/)|
-| JS(es6)    | Ruby (refer to jekyll documentation)     | ShuffleJS                      |                             | Ubuntu |
-| Ruby 2.5.1 | RubyGems (refer to jekyll documentation) | Font Awesome                   |                             | Gimp |
-|            | Jekyll 3.7.4                             | Google Analytics               |                             | Oh My Zsh |
+| JS(es6)    | Ruby (refer to jekyll documentation)     | ShuffleJS                      |                             | Gimp |
+| Ruby 2.5.1 | RubyGems (refer to jekyll documentation) | Font Awesome                   |                             | Oh My Zsh |
+|            | Jekyll 3.7.4                             | Google Analytics               |                             | 
 |            | NodeJS (sudo apt-get install nodejs)     | imagesLoaded                   |                             |
   
