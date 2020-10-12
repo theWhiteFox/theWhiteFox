@@ -6,7 +6,7 @@
 
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
-This is the git repository for `theWhiteFox.ninja` Website / Blog :boom:
+This is the git repository for [ https://thewhitefox.ninja]( https://thewhitefox.ninja) Portfolio / Blog :boom:
 
 | Languages   | Requirements                            | / dependencies                 | Editors                     | Other | OS |
 | ---------- | ---------------------------------------: | :----------------------------- | :-------------------------- | :---- | :-- |
