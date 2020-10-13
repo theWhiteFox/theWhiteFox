@@ -20,6 +20,6 @@ This is the git repo for [ https://thewhitefox.ninja]( https://thewhitefox.ninja
 <details>
   <summary>GitHub Stats</summary>
   <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&&hide=contribs&show_icons=true&theme=calm&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&hide=C#,java&theme=calm">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&hide='C#',java&theme=calm">
 </details>
 
