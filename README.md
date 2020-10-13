@@ -21,7 +21,8 @@ This is the git repo for [ https://thewhitefox.ninja]( https://thewhitefox.ninja
   <summary>GitHub Stats</summary>
   
   <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&show_icons=true&theme=merko&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&hide=c#,java&theme=merko">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&hide=css,java,html&theme=tokyonight">
+
 
 </details>
 
