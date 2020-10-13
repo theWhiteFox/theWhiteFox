@@ -1,4 +1,4 @@
-# theWhiteFox ![](https://komarev.com/ghpvc/?username=your-github-username)
+# theWhiteFox  ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38)
 
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
