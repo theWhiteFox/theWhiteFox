@@ -19,7 +19,7 @@ This is the git repo for [ https://thewhitefox.ninja]( https://thewhitefox.ninja
   
 <details>
   <summary>GitHub Stats</summary>
-  ![GitHub Stats Card]
+  ![theWhiteFox's github stats]
 </details>
 
-[github stats card]: https://github-readme-stats.vercel.app/api?username=theWhiteFox
+![theWhiteFox's github stats](https://github-readme-stats.vercel.app/api?username=theWhiteFox&show_icons=true&theme=radical)
