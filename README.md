@@ -2,15 +2,14 @@
 
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
-|[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox)| [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io)      |    [![codebeat badge](https://codebeat.co/badges/121e5795-b2a2-48c8-b603-5ed2a591a36b)](https://codebeat.co/projects/github-com-thewhitefox-thewhitefox-gh-pages)       |
-| ---------- | :--------------------------------------- | :-------------------------- |
+|[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox)| [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io)      | [![codebeat badge](https://codebeat.co/badges/121e5795-b2a2-48c8-b603-5ed2a591a36b)](https://codebeat.co/projects/github-com-thewhitefox-thewhitefox-gh-pages)       |![](https://komarev.com/ghpvc/?username=your-github-username)| 
+| ---------- | :--------------------------------------- | :-------------------------- | ------- |
 
-| ------- | ----- |
-|![](https://komarev.com/ghpvc/?username=your-github-username)| <details>
+<details>
   <summary>GitHub Stats 📊</summary>
   <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&&hide=contribs&show_icons=true&theme=calm&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&hide=c%23,java&theme=calm">
-</details> |
+</details>
 
 
 
@@ -25,5 +24,3 @@ This is the git repo for [ https://thewhitefox.ninja]( https://thewhitefox.ninja
 | Ruby 2.5.1 | RubyGems (refer to [jekyll docs](https://jekyllrb.com/docs/ruby-101/))| Font Awesome |                  | Oh My Zsh |
 |            | Jekyll 3.7.4                             | Google Analytics               |                             | [formspree](https://formspree.io/)
 |            | Node & or NVM ( nvm use v11.15.0)        | imagesLoaded                   |                             | [Disqus](https://help.disqus.com/en/articles/1717053-what-is-disqus) |
-  
-
