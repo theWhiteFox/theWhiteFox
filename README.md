@@ -22,4 +22,4 @@ This is the git repo for [ https://thewhitefox.ninja]( https://thewhitefox.ninja
   ![GitHub Stats Card]
 </details>
 
-[theWhiteFox's github stats]: https://github-readme-stats.vercel.app/api?username=theWhiteFox
+[github stats card]: https://github-readme-stats.vercel.app/api?username=theWhiteFox
