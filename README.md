@@ -18,7 +18,7 @@ This is the git repo for [ https://thewhitefox.ninja]( https://thewhitefox.ninja
 |            | Node & or NVM ( nvm use v11.15.0)        | imagesLoaded                   |                             | [Disqus](https://help.disqus.com/en/articles/1717053-what-is-disqus) |
   
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>GitHub Stats 📊</summary>
   <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&&hide=contribs&show_icons=true&theme=calm&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&hide=c%23,java&theme=calm">
 </details>
