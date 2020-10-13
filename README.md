@@ -17,3 +17,9 @@ This is the git repo for [ https://thewhitefox.ninja]( https://thewhitefox.ninja
 |            | Jekyll 3.7.4                             | Google Analytics               |                             | [formspree](https://formspree.io/)
 |            | Node & or NVM ( nvm use v11.15.0)        | imagesLoaded                   |                             | [Disqus](https://help.disqus.com/en/articles/1717053-what-is-disqus) |
   
+<details>
+  <summary>GitHub Stats</summary>
+![GitHub Stats Card]
+</details>
+
+[github stats card]: https://github-readme-stats.vercel.app/api?username=thewhitefox
