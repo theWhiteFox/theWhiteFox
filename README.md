@@ -20,9 +20,8 @@ This is the git repo for [ https://thewhitefox.ninja]( https://thewhitefox.ninja
 <details>
   <summary>GitHub Stats</summary>
   <p align="center">
-![theWhiteFox's github stats](https://github-readme-stats.vercel.app/api?username=theWhiteFox&show_icons=true&theme=highcontrast)
   <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&theme=tokyonight">
 </p>
 </details>
 
