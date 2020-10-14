@@ -19,7 +19,7 @@
 | ---------- | ---------------------------------------: | :----------------------------- | :-------------------------- | :---- | :-- |
 | HTML5      | Bootstrap 4                              | NPM     (sudo apt install npm) | VS Code                     | SVG   | Ubuntu 18 |
 | CSS3       | jQuery                       | Jekyll Livereload              | [prose.io](http://prose.io) | [GitHub pages](http://pages.github.com/)| Win 10 |
-| JS(es6)    | Ruby (refer to [jekyll docs](https://jekyllrb.com/docs/))| ShuffleJS      |                             | Gimp | Mac 10 |
+| JS(ES6)    | Ruby (refer to [jekyll docs](https://jekyllrb.com/docs/))| ShuffleJS      |                             | Gimp | Mac 10 |
 | Ruby 2.5.1 | RubyGems (refer to [jekyll docs](https://jekyllrb.com/docs/ruby-101/))| Font Awesome |                  | Oh My Zsh |
 |            | Jekyll 3.7.4                             | Google Analytics               |                             | [formspree](https://formspree.io/)
 |            | Node & or NVM ( nvm use v11.15.0)        | imagesLoaded                   |                             | [Disqus](https://help.disqus.com/en/articles/1717053-what-is-disqus) |
