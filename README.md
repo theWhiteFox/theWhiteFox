@@ -10,7 +10,7 @@
 
 
 
-|This is the git repo for [thewhitefox.ninja]( https://thewhitefox.ninja) Portfolio / Blog :boom:|[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox)| [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io)      | [![codebeat badge](https://codebeat.co/badges/121e5795-b2a2-48c8-b603-5ed2a591a36b)](https://codebeat.co/projects/github-com-thewhitefox-thewhitefox-gh-pages)       |
+|This is the git repo for [thewhitefox.ninja]( https://thewhitefox.ninja) site / Blog :boom:|[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox)| [![This project is using Percy.io for visual regression testing.](https://percy.io/static/images/percy-badge.svg)](https://percy.io)      | [![codebeat badge](https://codebeat.co/badges/121e5795-b2a2-48c8-b603-5ed2a591a36b)](https://codebeat.co/projects/github-com-thewhitefox-thewhitefox-gh-pages)       |
 | ---------- | :--------------------------------------- | :-------------------------- | ---- |
 
 
