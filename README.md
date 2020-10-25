@@ -23,3 +23,5 @@
 | Ruby 2.5.1 | RubyGems (refer to [jekyll docs](https://jekyllrb.com/docs/ruby-101/))| Font Awesome |                  | Oh My Zsh |
 |            | Jekyll 3.7.4                             | Google Analytics               |                             | [formspree](https://formspree.io/)
 |            | Node & or NVM ( nvm use v11.15.0)        | imagesLoaded                   |                             | [Disqus](https://help.disqus.com/en/articles/1717053-what-is-disqus) |
+
+Current rebuiding [thewhitefox](https://thewhitefox-blog.netlify.app/)[![Netlify Status](https://api.netlify.com/api/v1/badges/b6c2f1bf-3480-45bc-8ddf-229cd268465a/deploy-status)](https://app.netlify.com/sites/thewhitefox-blog/deploys) [thewhitefox bloggin](https://thewhitefox-blog.netlify.app/)
