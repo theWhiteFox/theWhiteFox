@@ -1,4 +1,4 @@
-# theWhiteFox  ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38)
+# theWhiteFox  ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) <a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
