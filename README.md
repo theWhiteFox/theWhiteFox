@@ -4,7 +4,7 @@
 
 <details>
   - <summary>GitHub Stats 📊</summary>
-  <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&show_icons=true&theme=calm&layout=compact&show_owner=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&show_icons=true&theme=calm&layout=compact&custom_title=theWhiteFox GitHub stats">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&theme=calm">
 </details>
 
