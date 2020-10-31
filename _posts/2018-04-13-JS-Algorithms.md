@@ -2,7 +2,7 @@
 layout: post
 title: Algorithms
 subtitle: JavaScript
-date: {}
+date: 2020-10-31T00:00:00.000Z
 categories: JavaScript
 published: true
 ---
