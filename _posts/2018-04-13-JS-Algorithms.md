@@ -11,7 +11,6 @@ I love to cook, eat delicious food & learn new recipes. Algorithms for me are li
 
 I also want to improve my problem solving / JS writing skills, these are some [JS algorithms](https://github.com/theWhiteFox/algorithms-in-js) that I will understand, not just do. 
 
-
 # The Algorithms I have chosen to learn
 
 - [Two Sum Algorithm ES6](http://thewhitefox.github.io/algorithms-in-js/two-sum/index.html)
