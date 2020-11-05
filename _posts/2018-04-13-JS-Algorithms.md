@@ -2,9 +2,9 @@
 layout: post
 title: Algorithms
 subtitle: JavaScript
-date: 2020-10-31T00:00:00.000Z
+date: {}
 categories: JavaScript
-published: true
+published: false
 ---
 
 I love to cook, eat delicious food & learn new recipes. Algorithms for me are like recipes in programming. As my cooking skills have improved by learning recipes, my programming skills will improve by learning algorithms. I chose JS as the language to learn these algorithms / recipes because it's the language of the web and a language I want to master.
