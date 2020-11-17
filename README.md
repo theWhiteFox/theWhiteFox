@@ -10,8 +10,8 @@
 
 
 
-|This is the git repo for [thewhitefox.ninja]( https://thewhitefox.ninja) site / blog :boom:|
-[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox) |
+This is the git repo for [thewhitefox.ninja]( https://thewhitefox.ninja) site / blog :boom:
+[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox)
 
 <h3>Learning to code with</h3>
 <p>
