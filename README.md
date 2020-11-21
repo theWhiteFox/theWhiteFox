@@ -28,4 +28,4 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-Currently rebuilding using [Gatsby](https://www.gatsbyjs.com/) [theWhiteFox.ninja](https://thewhitefox-blog.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/b6c2f1bf-3480-45bc-8ddf-229cd268465a/deploy-status)](https://app.netlify.com/sites/thewhitefox-blog/deploys) <a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> Currently rebuilding using [Gatsby](https://www.gatsbyjs.com/) [theWhiteFox.ninja](https://thewhitefox-blog.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/b6c2f1bf-3480-45bc-8ddf-229cd268465a/deploy-status)](https://app.netlify.com/sites/thewhitefox-blog/deploys) 
