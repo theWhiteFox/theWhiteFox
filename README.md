@@ -10,8 +10,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&theme=calm">
 </details>
 
-[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox) This is the git repo for [thewhitefox.ninja]( https://thewhitefox.ninja) site / blog :boom:
-
 <h3>Learning to code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -27,4 +25,5 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+[![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox) This is the git repo for [thewhitefox.ninja]( https://thewhitefox.ninja) site / blog :boom:
 
