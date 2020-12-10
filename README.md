@@ -2,8 +2,6 @@
 
 ![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
 
-<a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> Currently rebuilding using [Gatsby](https://www.gatsbyjs.com/) [theWhiteFox.ninja](https://thewhitefox-blog.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/b6c2f1bf-3480-45bc-8ddf-229cd268465a/deploy-status)](https://app.netlify.com/sites/thewhitefox-blog/deploys) 
-
 <details>
   - <summary>GitHub Stats 📊</summary>
   <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&show_icons=true&theme=calm&layout=compact&custom_title=theWhiteFox GitHub stats">
@@ -26,3 +24,4 @@
 
 [![Build Status](https://semaphoreci.com/api/v1/thewhitefox/thewhitefox/branches/gh-pages/shields_badge.svg)](https://semaphoreci.com/thewhitefox/thewhitefox) This is the git repo for [thewhitefox.ninja]( https://thewhitefox.ninja) site / blog :boom:
 
+<a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> Currently rebuilding using [Gatsby](https://www.gatsbyjs.com/) [theWhiteFox.ninja](https://thewhitefox-blog.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/b6c2f1bf-3480-45bc-8ddf-229cd268465a/deploy-status)](https://app.netlify.com/sites/thewhitefox-blog/deploys) 
