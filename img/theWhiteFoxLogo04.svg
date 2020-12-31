@@ -50,7 +50,9 @@
      id="defs59">
     <style
        type="text/css"
-       id="style57">
+       id="style57" 
+           background: "#662219"
+padding: "1rem">
       .lines {
         fill: #FFF;
         stroke: #FFF;
