@@ -23,6 +23,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+Previous GitHub [StephOC](https://github.com/StephOC)
+
 <a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 
 This is the git repo for the previous version of [theWhiteFox.ninja](https://www.thewhitefox.ninja/) site / blog built using [Jekyllrb](https://jekyllrb.com/) 
