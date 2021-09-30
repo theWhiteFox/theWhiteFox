@@ -14,6 +14,7 @@
 <p>
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-v%206.17.1-blue" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-v3-green" />
+  <img alt="es6" src="https://img.shields.io/badge/%20Vanilla%20JS-ES6-black" />
   <img alt="PHP" src="https://img.shields.io/badge/php-%5E8.0-blue" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
