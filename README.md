@@ -23,7 +23,7 @@
   <img alt="Postamn" src="https://img.shields.io/badge/%20Postman-v7.%2033.0-orange" />
 </p>
 
-🌱 I’m currently learning   
+🌱 I’m learning   
 <p>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
