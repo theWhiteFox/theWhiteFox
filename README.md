@@ -8,7 +8,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&theme=calm">
 </details>
 
-👨‍💻 I’m currently working with [Agriland Media](https://www.agriland.ie/) 💻 Coding
+👨‍💻 I’m currently working with [Agriland Media](https://www.agriland.ie/) 
 <p>
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-v%206.17.1-blue" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-v3-green" />
