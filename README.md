@@ -3,7 +3,7 @@
 ![](https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox&theme=oldie&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox&theme=oldie&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <details>
