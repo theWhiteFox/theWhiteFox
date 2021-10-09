@@ -2,7 +2,9 @@
 
 ![](https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <details>
   - <summary>GitHub Stats 📊</summary>
