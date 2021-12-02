@@ -20,7 +20,9 @@
   <img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%5E8.0-blue" />
- <a href="https://badges.aleen42.com/src/visual_studio.svg" rel="nofollow"><img src="/aleen42/badges/raw/master/src/visual_studio.svg" alt="visual_studio" style="max-width: 100%;"></a>
+  
+<img src="/aleen42/badges/raw/master/src/visual_studio.svg" alt="visual_studio" style="max-width: 100%;" />
+  
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
