@@ -13,13 +13,14 @@
 </details>
 
 👨‍💻 I’m currently working with [Agriland Media](https://www.agriland.ie/) 
+ [![visual_studio](./src/visual_studio.svg)](https://badges.aleen42.com/src/visual_studio.svg)
 <p>
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-v3-green" />
   <img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%5E8.0-blue" />
-  [![visual_studio](./src/visual_studio.svg)](https://badges.aleen42.com/src/visual_studio.svg)
+ 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
