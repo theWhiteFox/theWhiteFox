@@ -17,7 +17,6 @@
 <p>
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" />
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue" style="max-width: 100%;"></a>
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-v3-green&logo=vue" />
   <img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%5E8.0-blue" />
