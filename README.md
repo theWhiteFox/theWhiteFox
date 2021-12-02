@@ -21,7 +21,7 @@
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%5E8.0-blue" />
   
-<img src="/aleen42/badges/raw/master/src/visual_studio.svg" alt="visual_studio" style="max-width: 100%;" />
+<img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg" alt="visual_studio" style="max-width: 100%;" />
   
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
