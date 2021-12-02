@@ -16,7 +16,7 @@
 
 <p>
   <img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-v3-green" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-v3-green&logo=vue" />
   <img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%5E8.0-blue" />
