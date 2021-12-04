@@ -16,15 +16,16 @@
 
 <p>
   <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" /></a>
-  <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue" style="max-width: 100%;"></a>
-  <img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" />
+  <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue" /></a>
+  <a href="http://vanilla-js.com/"><img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
+  <a href="https://html.spec.whatwg.org/multipage/#toc-introduction"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
+  <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" /></a>
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%5E8.0-blue" />
   <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg" alt="visual_studio" style="max-width: 100%;" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+ 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%2300758f" />
   <img alt="Postamn" src="https://img.shields.io/badge/%20Postman-v7-orange" />
