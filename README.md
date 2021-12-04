@@ -48,6 +48,7 @@
 <p>
   <a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/1967126/stephen"><img alt="stackoverflow" src="https://badges.aleen42.com/src/stackoverflow.svg" /></a> <a href="https://twitter.com/steTheWhiteFox" ><img src="https://badges.aleen42.com/src/twitter.svg" /></a>
 </p>
+
 This is the git repo for the previous version of [theWhiteFox.ninja](https://www.thewhitefox.ninja/) site / blog built using [Jekyllrb](https://jekyllrb.com/) 
 
 Previous GitHub [StephOC](https://github.com/StephOC?tab=overview&from=2021-10-01&to=2021-10-16)
