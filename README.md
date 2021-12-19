@@ -26,7 +26,7 @@
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%2300758f" />
-  <img alt="Postamn" src="https://img.shields.io/badge/%20Postman-v7-orange" />
+  <a href="https://www.postman.com/"><img alt="Postamn" src="https://img.shields.io/badge/%20Postman-v7-orange" /></a>
 </p>
 
 🌱 I’m learning   
@@ -39,8 +39,8 @@
   <a href="https://styled-components.com/"><img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" /></a>
   <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
   <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
-  <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
-  <img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" />
+  <a href="https://d3js.org"><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
+  <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
 </p>
 
 🦊 Connect / Communicate
