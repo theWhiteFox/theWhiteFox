@@ -16,6 +16,7 @@
 <p>
   <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" /></a>
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue" /></a>
+  <a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-v4.0.2%20Latest-%236bb983" /></a>
   <a href="http://vanilla-js.com/"><img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
   <a href="https://html.spec.whatwg.org/multipage/#toc-introduction"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
   <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" /></a>
