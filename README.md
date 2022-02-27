@@ -12,7 +12,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&theme=calm">
 </details>
 
-👨‍💻 I’m currently working with [Agriland Media](https://www.agriland.ie/) 
+👨‍💻 I’m currently working with
 <p>
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
   <a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
