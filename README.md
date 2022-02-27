@@ -12,7 +12,7 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&theme=calm">
 </details>
 
-👨‍💻 I’m currently working with
+👨‍💻 My tech stack
 <p>
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
   <a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
@@ -34,7 +34,7 @@
   <a href="https://www.postman.com/"><img alt="Postamn" src="https://img.shields.io/badge/%20Postman-v7-orange" /></a>
 </p>
 
-🌱 I’m learning   
+🌱 Adding to my tech stack  
 <p>
   <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
   <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
