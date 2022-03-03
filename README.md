@@ -34,7 +34,7 @@
   <a href="https://www.postman.com/"><img alt="Postamn" src="https://img.shields.io/badge/%20Postman-v7-orange" /></a>
 </p>
 
-🌱 Adding to my dev stack  
+🌱 Learning 
 <p>
   <a href="https://stimulus.hotwired.dev/"><img src="https://img.shields.io/badge/Stimulus-v3.0.1-%2377e8b9" /></a>
   <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
