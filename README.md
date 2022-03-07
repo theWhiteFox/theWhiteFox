@@ -14,7 +14,7 @@
 <p>
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
   <a href="https://vuex.vuejs.org/"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
-  <a href="http://vanilla-js.com/"><img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
+  <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
   </a>
@@ -31,7 +31,7 @@
   <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%2300758f" /></a>
     <a href="https://d3js.org"><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
-  <a href="https://www.postman.com/"><img alt="Postamn" src="https://img.shields.io/badge/%20Postman-v7-orange" /></a>
+  <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/%20Postman-v7-orange" /></a>
 </p>
 
 🌱 Learning 
