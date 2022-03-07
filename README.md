@@ -13,7 +13,7 @@
 👨‍💻 My dev stack
 <p>
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
-  <a href="https://vuex.vuejs.org/"><img src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
+  <a href="https://vuex.vuejs.org/"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
   <a href="http://vanilla-js.com/"><img alt="es6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
