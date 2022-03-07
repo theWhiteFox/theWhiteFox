@@ -36,9 +36,11 @@
 
 🌱 Learning 
 <p>
-  <a href="https://stimulus.hotwired.dev/"><img src="https://img.shields.io/badge/Stimulus-v3.0.1-%2377e8b9" /></a>
+  <a href="https://gridsome.org/"><img src="https://img.shields.io/badge/Gridsome-v0.7-%23399f71" /></a>
+  <a href="https://www.gatsbyjs.com"><img src="https://img.shields.io/badge/Gatsby-v4-%237026b9" /></a>
   <a href="https://reactjs.org/"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" /></a>
   <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
+   <a href="https://stimulus.hotwired.dev/"><img src="https://img.shields.io/badge/Stimulus-v3.0.1-%2377e8b9" /></a>
   <a href="https://styled-components.com/"><img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" /></a>
   <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
 </p>
