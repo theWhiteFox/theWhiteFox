@@ -15,9 +15,6 @@
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
   <a href="https://vuex.vuejs.org/"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
   <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
-  <a href="https://www.typescriptlang.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
-  </a>
   <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" /></a>
   <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" /></a>
   <a href="https://html.spec.whatwg.org/multipage/#toc-introduction"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></a>
@@ -36,7 +33,10 @@
 🌱 Learning 
 <p>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
-  <a href="https://aws.amazon.com/"><img alt="AWS" width="36" height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
+  </a>
+  <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
   <a href="https://gridsome.org/"><img src="https://img.shields.io/badge/Gridsome-v0.7-%23399f71" /></a>
   <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
   <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
