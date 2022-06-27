@@ -34,6 +34,7 @@
 
 🌱 Learning 
 <p>
+  <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/angular.svg" /></a>
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
   </a>
