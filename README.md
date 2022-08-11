@@ -1,4 +1,4 @@
-# theWhiteFox<img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="45"/>Hi ! ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 
+# theWhiteFox<img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="45"/> ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 
 
 ![](https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg)
 
@@ -33,7 +33,8 @@
   <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
   <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%2300758f" /></a>
-    <a href="https://d3js.org"><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
+  <a href="https://d3js.org"><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
+  <a href="https://www.adobe.com/ie/products/photoshop.html"><img alt="PhotoShop" src="https://badges.aleen42.com/src/photoshop.svg" /></a>
 </p>
 
 🌱 Learning 
@@ -56,3 +57,5 @@
 This is the git repo for the previous version of [theWhiteFox.ninja](https://www.thewhitefox.ninja/) site / blog built using [Jekyllrb](https://jekyllrb.com/) 
 
 Previous GitHub [StephOC](https://github.com/StephOC?tab=overview&from=2021-10-01&to=2021-10-16)
+
+<blockquote><h3>Yoshikazu Ono: "Always look ahead and above yourself. Always try to improve on yourself. Always strive to elevate your craft."</h3></blockquote>
