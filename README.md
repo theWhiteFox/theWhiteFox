@@ -11,7 +11,7 @@
 </details>
 
 💻 Working with 
-* [https://github.com/NewHorizonAthlone](https://github.com/NewHorizonAthlone)
+* [New Horizon GitHub Organization](https://github.com/NewHorizonAthlone)
 
 👨‍💻 My dev stack
 <p>
