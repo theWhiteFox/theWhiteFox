@@ -11,11 +11,12 @@
 </details>
 
 💻 Working with 
-* [New Horizon GitHub Organization](https://github.com/NewHorizonAthlone)
+New Horizon <a href="https://github.com/NewHorizonAthlone"><img alt="React" src="https://badges.aleen42.com/src/github.svg" /></a> Organization
 
 👨‍💻 My dev stack
 <p>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
+  <a href="https://reactrouter.com/"><img alt="React Router" src="https://badges.aleen42.com/src/react-router.svg" /></a>
   <a href="https://redux.js.org/"><img alt="Redux" src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" /></a>
   <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
