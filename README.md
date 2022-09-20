@@ -38,9 +38,9 @@
   <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
   <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%2300758f" /></a>
-  <a href="https://www.microsoft.com/en-ie/sql-server/sql-server-downloads"><img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
+  <a href="https://www.microsoft.com/en-ie/sql-server/sql-server-downloads"><img height="22" alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
   <a href="https://d3js.org"><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
-    <a href="https://www.figma.com/files/recent?fuid=1153972793693374180"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
+    <a href="https://www.figma.com/files/recent?fuid=1153972793693374180"><img height="22" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
   <a href="https://www.adobe.com/ie/products/photoshop.html"><img alt="PhotoShop" src="https://badges.aleen42.com/src/photoshop.svg" /></a>
 </p>
 
