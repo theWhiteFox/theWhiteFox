@@ -19,6 +19,10 @@
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
   <a href="https://reactrouter.com/"><img alt="React Router" src="https://badges.aleen42.com/src/react-router.svg" /></a>
   <a href="https://redux.js.org/"><img alt="Redux" src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" /></a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
+  </a>
+  <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
   <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
   <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" /></a>
   <a href="https://reactnative.dev/"><img height="22" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
@@ -47,12 +51,8 @@
 🌱 Learning 
 <p>
   <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/angular.svg" /></a>
-  <a href="https://www.typescriptlang.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
-  </a>
   <a href="https://nuxtjs.org/announcements/nuxt3-rc"><img src="https://img.shields.io/badge/Nuxt-3-%2300dc82" /></a>
   <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
-  <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
 </p>
 
 🦊 Connect / Communicate
