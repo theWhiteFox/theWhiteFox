@@ -10,8 +10,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&theme=calm">
 </details>
 
-💻 Working with [New Horizon Athlone](https://newhorizonathlone.ngo/)
-
 <a href="https://github.com/NewHorizonAthlone"><img alt="React" src="https://badges.aleen42.com/src/github.svg" /></a>
 
 👨‍💻 My dev stack
