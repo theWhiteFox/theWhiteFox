@@ -1,4 +1,4 @@
-# theWhiteFox<img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="45"/> ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 
+# theWhiteFox<img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="45"/> ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
 
 ![](https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg)
 
