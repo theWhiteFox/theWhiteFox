@@ -15,6 +15,8 @@
   <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
   <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"       /></a>
+  <a href="https://jestjs.io/"><img src="https://badges.aleen42.com/src/jest_1.svg" /></a>
+  <a href="https://eslint.org/"><img src="https://badges.aleen42.com/src/eslint.svg" /></a>
   <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg"         alt="visual_studio" style="max-width: 100%;" /></a>
   <a href="https://gridsome.org/"><img src="https://img.shields.io/badge/Gridsome-v0.7-%23399f71" /></a>
 </p>
@@ -44,7 +46,6 @@
 
 🌱 Learning 
 <p>
-  <a href="https://jestjs.io/"><img src="https://badges.aleen42.com/src/jest_1.svg" /></a>
   <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next-13-%2300dc82" /></a>
   <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/angular.svg" /></a>
   <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
