@@ -21,11 +21,13 @@
   <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg"         alt="visual_studio" style="max-width: 100%;" /></a>
   <a href="https://gridsome.org/"><img src="https://img.shields.io/badge/Gridsome-v0.7-%23399f71" /></a>
 </p>
+
 👨‍💻 Previous dev stack
+
 <p>
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
   <a href="https://vuex.vuejs.org/"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
-  <a href=""><img src="https://badges.aleen42.com/src/codepen.svg" /></a>
+  <a href="https://codepen.io"><img src="https://badges.aleen42.com/src/codepen.svg" /></a>
   <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
   <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" /></a>
   <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" /></a>
@@ -42,8 +44,8 @@
 
 🌱 Learning 
 <p>
-  <a href=""><img src="https://badges.aleen42.com/src/jest_1.svg" /></a>
-  <a href="https://nextjs.org/announcements/next13-rc"><img src="https://img.shields.io/badge/Next-13-%2300dc82" /></a>
+  <a href="https://jestjs.io/"><img src="https://badges.aleen42.com/src/jest_1.svg" /></a>
+  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next-13-%2300dc82" /></a>
   <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/angular.svg" /></a>
   <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
 </p>
