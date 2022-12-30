@@ -11,10 +11,7 @@
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
   </a>
-  <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
   <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
-  <a href="https://reactnative.dev/"><img height="22" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-  <a href="https://azure.microsoft.com/en-us/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" /></a>
   <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
   <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
   <a href="https://webpack.js.org/"><img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"       /></a>
@@ -27,6 +24,7 @@
 <p>
   <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
   <a href="https://vuex.vuejs.org/"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
+  <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
   <a href="https://codepen.io"><img src="https://badges.aleen42.com/src/codepen.svg" /></a>
   <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
   <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" /></a>
@@ -35,6 +33,8 @@
   <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" /></a>
   <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-%5E8.0-blue" /></a>
   <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+  <a href="https://reactnative.dev/"><img height="22" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
+  <a href="https://azure.microsoft.com/en-us/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" /></a>
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%2300758f" /></a>
   <a href="https://www.microsoft.com/en-ie/sql-server/sql-server-downloads"><img height="22" alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
   <a href="https://d3js.org"><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
