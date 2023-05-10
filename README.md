@@ -12,7 +12,7 @@
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
   </a>
   <a href="https://www.styled-components.com">
-    <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
+    <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="22" height="22" />
   </a>
   <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
   <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
