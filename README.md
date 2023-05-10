@@ -9,7 +9,7 @@
   <a href="https://redux.js.org/"><img alt="Redux" src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" /></a>
   <a href="https://html.spec.whatwg.org/multipage/#toc-introduction"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&    logo=html5&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;">
+    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;" />
   </a>
   <a href="https://www.styled-components.com">
     <img alt="styled-components" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="22" height="22" />
