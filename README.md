@@ -69,6 +69,4 @@
 
 Blog rebuild NEXT.js [theWhiteFoxDev.blog](https://the-white-fox-dev-blog.vercel.app)
 
-Previous GitHub [StephOC](https://github.com/StephOC?tab=overview&from=2021-10-01&to=2021-10-16)
-
 <blockquote><h3>Yoshikazu Ono: "Always look ahead and above yourself. Always try to improve on yourself. Always strive to elevate your craft."</h3></blockquote>
