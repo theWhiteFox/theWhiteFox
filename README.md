@@ -1,4 +1,4 @@
-# theWhiteFox<img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="45"/> ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
+# theWhiteFox <img src="https://emojis.slackmojis.com/emojis/images/1577447864/7377/hello_fox.gif?1577447864" width="45"/> ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
 
 ![](https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg)
 
@@ -72,3 +72,5 @@ This is the git repo for the previous version of [theWhiteFox.ninja](https://www
 Previous GitHub [StephOC](https://github.com/StephOC?tab=overview&from=2021-10-01&to=2021-10-16)
 
 <blockquote><h3>Yoshikazu Ono: "Always look ahead and above yourself. Always try to improve on yourself. Always strive to elevate your craft."</h3></blockquote>
+
+[**Go To Top &nbsp; ⬆🔝**](#theWhiteFox)
