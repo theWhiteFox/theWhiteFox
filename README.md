@@ -24,34 +24,12 @@
 <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
 </p>
 
-👨‍💻 Previous dev stack
-
+🌱 Learning 
 <p>
-  <a href="https://vuejs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vue.svg" alt="vue 3" /></a>
-  <a href="https://vuex.vuejs.org/"><img alt="Vuex" src="https://img.shields.io/badge/Vuex-v4-%236bb983" /></a>
   <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
   <a href="https://codepen.io"><img src="https://badges.aleen42.com/src/codepen.svg" /></a>
   <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
   <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" /></a>
-  <a href="https://ionicframework.com/"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-v6-blue" /></a>
-  <a href="https://sass-lang.com/"><img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" /></a>
-  <a href="https://laravel.com/"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-5.8-%23ff2d20" /></a>
-  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-%5E8.0-blue" /></a>
-  <a href="https://git-scm.com/"><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
-  <a href="https://reactnative.dev/"><img height="22" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /></a>
-  <a href="https://azure.microsoft.com/en-us/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" /></a>
-  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-8.0-%2300758f" /></a>
-  <a href="https://www.microsoft.com/en-ie/sql-server/sql-server-downloads"><img height="22" alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" /></a>
-  <a href="https://d3js.org"><img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" /></a>
-    <a href="https://www.figma.com/files/recent?fuid=1153972793693374180"><img height="22" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /></a>
-  <a href="https://www.adobe.com/ie/products/photoshop.html"><img alt="PhotoShop" src="https://badges.aleen42.com/src/photoshop.svg" /></a>
-</p>
-
-🌱 Learning 
-<p>
-  <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next-13-%2300dc82" /></a>
-  <a href="https://angular.io/"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/angular.svg" /></a>
-  <a href="https://graphql.org/"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /></a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox&theme=buddhism&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
