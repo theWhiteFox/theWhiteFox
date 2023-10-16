@@ -20,6 +20,7 @@
   <a href="https://jestjs.io/"><img src="https://badges.aleen42.com/src/jest_1.svg" /></a>
   <a href="https://eslint.org/"><img src="https://badges.aleen42.com/src/eslint.svg" /></a>
   <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg"         alt="visual_studio" style="max-width: 100%;" /></a>
+  <a href="[https://eslint.org/](https://www.chartjs.org)"><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
 <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
 </p>
 
