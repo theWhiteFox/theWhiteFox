@@ -32,7 +32,7 @@
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.0",
     "install": "^0.11.0",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-match-height": "^0.7.2",
     "magnific-popup": "^1.1.0",
     "popper.js": "^1.14.3",
