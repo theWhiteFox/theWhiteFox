@@ -16,7 +16,7 @@
     "Browser-sync"
   ],
   "devDependencies": {
-    "bootstrap": "^4.1.1",
+    "bootstrap": "^4.3.1",
     "browser-sync": "^2.26.3",
     "browserify": "^16.2.3",
     "cssnano": "^3.10.0",
