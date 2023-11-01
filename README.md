@@ -49,6 +49,6 @@
   <a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/1967126/stephen"><img alt="stackoverflow" src="https://badges.aleen42.com/src/stackoverflow.svg" /></a> <a href="https://twitter.com/steTheWhiteFox" ><img src="https://badges.aleen42.com/src/twitter.svg" /></a>
 </p>
 
-Blog rebuild NEXT.js [theWhiteFoxDev blog](https://www.thewhitefoxdev.blog)
+Blog rebuilt with NEXT.js TailwindCSS [theWhiteFoxDev blog](https://next-tw-ts-blog-template.vercel.app/)
 
 <blockquote><h3>Yoshikazu Ono: "Always look ahead and above yourself. Always try to improve on yourself. Always strive to elevate your craft."</h3></blockquote>
