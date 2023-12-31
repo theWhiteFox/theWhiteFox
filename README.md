@@ -1,4 +1,4 @@
-# theWhiteFoxDev-elopment ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
+# theWhiteFoxDev ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
 
 ![](https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg)
 
