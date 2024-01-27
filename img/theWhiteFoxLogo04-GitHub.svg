@@ -1,7 +1,7 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="908px"
 	 height="198.976" viewBox="0 0 908 198.976" enable-background="new 0 0 908 198.976" xml:space="preserve">
 <g id="Blackground">
-	<rect fill="#E24C38" width="908" height="198.976"/>
+	<rect fill="#000" width="908" height="198.976"/>
 </g>
 <?xml-stylesheet type="text/css" href="svg.css" ?>
   <defs>
