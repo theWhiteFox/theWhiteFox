@@ -1,8 +1,8 @@
-# [![MDX][logo]][site]
+# [![MDX]
 
-# theWhiteFoxDev ![site](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
+# theWhiteFoxDev ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
 
-![](https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg)
+![logo]][site](https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg)
 
 👨‍💻 My dev stack
 <p>
@@ -55,6 +55,6 @@ Blog rebuilt with NEXT.js TailwindCSS & Vercel [theWhiteFoxDev blog](https://nex
 
 <blockquote><h3>Yoshikazu Ono: "Always look ahead and above yourself. Always try to improve on yourself. Always strive to elevate your craft."</h3></blockquote>
 
-[logo]: https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38
+[logo]: https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg
 
 [site]: https://www.thewhitefoxdev.blog/
