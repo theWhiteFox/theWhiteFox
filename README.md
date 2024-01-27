@@ -2,7 +2,7 @@
 
 [![logo]][site]
 
-<a href="https://www.thewhitefoxdev.blog/" style="color: white;``">theWhiteFoxDev blog</a>
+<a href="https://www.thewhitefoxdev.blog/" style="color: white;">theWhiteFoxDev blog</a>
 
 👨‍💻 My dev stack
 <p>
