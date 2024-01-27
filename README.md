@@ -55,4 +55,4 @@ Blog rebuilt with NEXT.js TailwindCSS & Vercel [theWhiteFoxDev blog](https://nex
 
 [logo]: https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg
 
-[site]: https://www.thewhitefoxdev.blog/
+[theWhiteFoxDev]: https://www.thewhitefoxdev.blog/
