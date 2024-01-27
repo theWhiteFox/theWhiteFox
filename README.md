@@ -1,6 +1,8 @@
-# [theWhiteFoxDev] ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
+# theWhiteFoxDev ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
 
 [![logo]][site]
+
+<a href="https://www.thewhitefoxdev.blog/" style="color: white;``">theWhiteFoxDev blog</a>
 
 👨‍💻 My dev stack
 <p>
@@ -55,4 +57,4 @@ Blog rebuilt with NEXT.js TailwindCSS & Vercel [theWhiteFoxDev blog](https://nex
 
 [logo]: https://github.com/theWhiteFox/theWhiteFox/blob/gh-pages/img/theWhiteFoxLogo04.svg
 
-[theWhiteFoxDev]: https://www.thewhitefoxdev.blog/
+[site]: https://www.thewhitefoxdev.blog/
