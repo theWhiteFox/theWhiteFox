@@ -28,8 +28,8 @@
 🌱 Learning 
 <p>
 
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
-  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://nextjs.org"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
   <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" /></a>
   <a href="https://vercel.com"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)" /></a>
