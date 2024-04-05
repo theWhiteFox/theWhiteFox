@@ -3,7 +3,7 @@
 [![logo]][site]
 
 👨‍💻 My dev stack
-<p align="center">
+<p>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
   <a href="https://reactrouter.com/"><img alt="React Router" src="https://badges.aleen42.com/src/react-router.svg" /></a>
     <a href="https://www.typescriptlang.org/" rel="nofollow">
@@ -19,12 +19,11 @@
   <a href="https://jestjs.io/"><img src="https://badges.aleen42.com/src/jest_1.svg" /></a>
   <a href="https://eslint.org/"><img src="https://badges.aleen42.com/src/eslint.svg" /></a>
   <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg"         alt="visual_studio" style="max-width: 100%;" /></a>
-  
-<a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
+  <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
 </p>
 
 🌱 Learning 
-<p align="center">
+<p>
 
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
@@ -42,14 +41,14 @@
 
 <details>
   <summary>GitHub Stats 📊</summary>
-  <p align="center">
+  <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
     <img src="https://github-readme-stats.vercel.app/api?username=theWhiteFox&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
   </p>
 </details>
 
 🦊 Connect / Communicate
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/1967126/stephen"><img alt="stackoverflow" src="https://badges.aleen42.com/src/stackoverflow.svg" /></a> <a href="https://twitter.com/steTheWhiteFox" ><img src="https://badges.aleen42.com/src/twitter.svg" /></a>
 </p>
 
