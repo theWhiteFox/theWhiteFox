@@ -3,7 +3,7 @@
 [![logo]][site]
 
 👨‍💻 My dev stack
-<p>
+<p align="center">
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
   <a href="https://reactrouter.com/"><img alt="React Router" src="https://badges.aleen42.com/src/react-router.svg" /></a>
     <a href="https://www.typescriptlang.org/" rel="nofollow">
@@ -24,7 +24,7 @@
 </p>
 
 🌱 Learning 
-<p>
+<p align="center">
 
   <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
@@ -41,7 +41,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox&theme=buddhism&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <details>
-  - <summary>GitHub Stats 📊</summary>
+  <summary>GitHub Stats 📊</summary>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
     <img src="https://github-readme-stats.vercel.app/api?username=theWhiteFox&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
@@ -49,7 +49,7 @@
 </details>
 
 🦊 Connect / Communicate
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/thewhitefox/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/1967126/stephen"><img alt="stackoverflow" src="https://badges.aleen42.com/src/stackoverflow.svg" /></a> <a href="https://twitter.com/steTheWhiteFox" ><img src="https://badges.aleen42.com/src/twitter.svg" /></a>
 </p>
 
