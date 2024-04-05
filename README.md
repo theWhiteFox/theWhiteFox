@@ -42,8 +42,10 @@
 
 <details>
   - <summary>GitHub Stats 📊</summary>
-  <img src = "https://github-readme-stats.vercel.app/api?username=theWhiteFox&show_icons=true&theme=calm&layout=compact&custom_title=theWhiteFox GitHub stats">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&theme=calm">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=theWhiteFox&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
+  </p>
 </details>
 
 🦊 Connect / Communicate
