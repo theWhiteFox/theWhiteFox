@@ -37,7 +37,7 @@
 
 </p>
 
-<summary>GitHub Stats 📊</summary>
+📊 GitHub Stats 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
   <img src="https://github-readme-stats.vercel.app/api?username=theWhiteFox&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
