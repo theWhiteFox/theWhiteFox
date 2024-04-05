@@ -37,15 +37,13 @@
 
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox&theme=buddhism&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<summary>GitHub Stats 📊</summary>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theWhiteFox&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
+</p>
 
-<details>
-  <summary>GitHub Stats 📊</summary>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
-    <img src="https://github-readme-stats.vercel.app/api?username=theWhiteFox&title_color=58a6ff&text_color=999&icon_color=F7DF1E&bg_color=ffffff00&show_icons=true" height="160px" />
-  </p>
-</details>
+[![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox&theme=buddhism&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 🦊 Connect / Communicate
 <p>
