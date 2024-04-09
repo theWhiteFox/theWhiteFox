@@ -6,7 +6,8 @@
 <p>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
   <a href="https://reactrouter.com/"><img alt="React Router" src="https://badges.aleen42.com/src/react-router.svg" /></a>
-    <a href="https://www.typescriptlang.org/" rel="nofollow">
+  <a href="https://tanstack.com/query/latest/docs/framework/react/overview"><img alt="React Query" src="  https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /></a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;" />
   </a>
   <a href="https://html.spec.whatwg.org/multipage/#toc-introduction"><img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&    logo=html5&logoColor=white" /></a>
@@ -29,10 +30,14 @@
   <a href="https://expressjs.com/"><img height="22" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
   <a href="https://www.mongodb.com/"><img height="22" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://nextjs.org"><img height="22" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
+  <a href=""><img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" /></a>
   <a href="https://tailwindcss.com/"><img alt="tailwind" src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" /></a>
-  <a href="https://vercel.com"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)" /></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+  <a href="https://vercel.com"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
   <a href="https://bun.sh/">![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)</a>
+  <a href="https://www.nginx.com/"><img alt="nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /></a>
+  <a href=""><img alt="chatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://codepen.io"><img src="https://badges.aleen42.com/src/codepen.svg" /></a>
   <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
 
