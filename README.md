@@ -6,7 +6,7 @@
 <p>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
   <a href="https://reactrouter.com/"><img alt="React Router" src="https://badges.aleen42.com/src/react-router.svg" /></a>
-  <a href="https://tanstack.com/query/latest/docs/framework/react/overview"><img alt="React Query" src="  https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /></a>
+  <a href="https://tanstack.com/query/latest/docs/framework/react/overview"><img height="22" alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /></a>
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;" />
   </a>
