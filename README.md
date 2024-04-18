@@ -36,8 +36,8 @@
   <a href="https://vercel.com"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
   <a href="https://bun.sh/">![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)</a>
-  <a href="https://www.nginx.com/"><img alt="nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /></a>
-  <a href=""><img alt="chatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a href="https://www.nginx.com/"><img alt="nginx" height="22" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /></a>
+  <a href=""><img alt="chatGPT" height="22" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://codepen.io"><img src="https://badges.aleen42.com/src/codepen.svg" /></a>
   <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
 
