@@ -4,9 +4,6 @@
 
 🌱 Learning 
 <p>
-
-👨‍💻 My dev stack
-<p>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
   <a href="https://reactrouter.com/"><img alt="React Router" src="https://badges.aleen42.com/src/react-router.svg" /></a>
   <a href="https://tanstack.com/query/latest/docs/framework/react/overview"><img height="22" alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /></a>
@@ -25,7 +22,7 @@
   <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg" alt="visual_studio" style="max-width: 100%;" /></a>
   <a href="https://www.jenkins.io/"><img alt="Jenkins" height="22" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
   <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
-</p>
+
 
   <a href="https://expressjs.com/"><img height="22" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /></a>
   <a href="https://www.mongodb.com/"><img height="22" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
@@ -40,6 +37,7 @@
   <a href=""><img alt="chatGPT" height="22" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://codepen.io"><img src="https://badges.aleen42.com/src/codepen.svg" /></a>
   <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
+  <a href=["http://vanilla-js.com/](https://www.ruby-lang.org/en/documentation/quickstart/)">🐦‍🔥<img alt="ES6" src="https://www.ruby-lang.org/en/documentation/quickstart/" /></a>
 
 </p>
 
