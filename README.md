@@ -37,7 +37,7 @@
   <a href=""><img alt="chatGPT" height="22" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
   <a href="https://codepen.io"><img src="https://badges.aleen42.com/src/codepen.svg" /></a>
   <a href="http://vanilla-js.com/"><img alt="ES6" src="https://img.shields.io/badge/%20VanillaJS-ES6-black" /></a>
-  <a href=["http://vanilla-js.com/](https://www.ruby-lang.org/en/documentation/quickstart/)">🐦‍🔥<img alt="ES6" src="https://www.ruby-lang.org/en/documentation/quickstart/" /></a>
+  <a href="https://www.ruby-lang.org/en/documentation/quickstart/">🐦‍🔥</a>
 
 </p>
 
