@@ -2,7 +2,7 @@
 
 [![logo]][site]
 
-🌱 Learning and I work with: 
+🌱 🚀 Continuous Learning: 
 <p>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
   <a href="https://reactrouter.com/"><img alt="React Router" src="https://badges.aleen42.com/src/react-router.svg" /></a>
