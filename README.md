@@ -24,6 +24,22 @@
   <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
 </p>
 
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+<br><br>
+<pre>
+&lt;details&gt;
+&lt;summary&gt;How do I dropdown?&lt;&#47;summary&gt;
+&lt;br&gt;
+This is how you dropdown.
+&lt;&#47;details&gt;
+</pre>
+</details>
+
+<details>
+
 📊 GitHub Stats 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theWhiteFox&layout=compact&title_color=58a6ff&text_color=999&bg_color=ffffff00" height="160px" />
@@ -31,6 +47,8 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=theWhiteFox&theme=buddhism&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</details>
 
 🦊 Connect / Communicate
 <p>
