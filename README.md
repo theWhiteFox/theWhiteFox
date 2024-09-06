@@ -37,7 +37,7 @@
 
 🦊 Connect / Communicate
 <p>
-  <a href="https://www.linkedin.com/in/thewhitefox" target="_blank"><img height="22" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/1967126/stephen"><img alt="stackoverflow" src="https://badges.aleen42.com/src/stackoverflow.svg" /></a> 
+  <a href="https://www.linkedin.com/in/stephenó-connor" target="_blank"><img height="22" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://stackoverflow.com/users/1967126/stephen"><img alt="stackoverflow" src="https://badges.aleen42.com/src/stackoverflow.svg" /></a> 
 </p>
 
 <blockquote><h3>Yoshikazu Ono: "Always look ahead and above yourself. Always try to improve on yourself. Always strive to elevate your craft."</h3></blockquote>
