@@ -25,7 +25,6 @@
   <a href="https://www.jenkins.io/"><img alt="Jenkins" height="22" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
   <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
   <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
-    <a href="https://bun.sh/">![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)</a>
   <a href=""><img alt="chatGPT" height="22" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
 </p>
 
