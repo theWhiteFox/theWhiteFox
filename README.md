@@ -46,7 +46,7 @@
 
 <blockquote cite="https://www.metacritic.com/movie/jiro-dreams-of-sushi/">
   <p>
-    Always look ahead and above yourself. Always try to improve on yourself. Always strive to elevate your craft.
+    "Always look ahead and above yourself. Always try to improve on yourself. Always strive to elevate your craft."
   </p>
 </blockquote>
   <p>— Yoshikazu Ono, <cite>Jiro Dreams of Sushi</cite></p>
