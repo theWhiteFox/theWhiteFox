@@ -6,13 +6,10 @@
 <p>
   <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
   <a href="https://nextjs.org"><img height="22" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-  
-[![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
-
   <a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;" />
   </a>
-  
+  [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
   <a href="[https://eslint.org/](https://www.chartjs.org)"><img alt="chart.js" height="22" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
   <a href="https://redux.js.org/"><img alt="Redux" src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" /></a><a href="https://tailwindcss.com/"><img alt="tailwind" src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" /></a>
   <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
