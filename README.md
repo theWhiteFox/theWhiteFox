@@ -3,26 +3,23 @@
 [![logo]][site]
 
 🌱 🚀 Continuous Learning: 
-<p>
-  <a href="https://reactjs.org/"><img alt="React" src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" /></a>
-  <a href="https://nextjs.org"><img height="22" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /></a>
-  <a href="https://www.typescriptlang.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="typescript" style="max-width: 100%;" />
-  </a>
-  <a href="[https://eslint.org/](https://www.chartjs.org)"><img alt="chart.js" height="22" src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" /></a>
-  <a href="https://redux.js.org/"><img alt="Redux" src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" /></a><a href="https://tailwindcss.com/"><img alt="tailwind" src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" /></a>
-  <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-  <a href="https://nodejs.org/en/"><img alt="Nodejs" src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" /></a>
-  
-  [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
-  
-  <a href="https://jestjs.io/"><img src="https://badges.aleen42.com/src/jest_1.svg" /></a>
-  <a href="https://eslint.org/"><img src="https://badges.aleen42.com/src/eslint.svg" /></a>
-  <a href="https://code.visualstudio.com/?wt.mc_id=DX_841432"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg" alt="visual_studio" style="max-width: 100%;" /></a>
-  <a href="https://www.jenkins.io/"><img alt="Jenkins" height="22" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
-  <a href="https://aws.amazon.com/"><img alt="AWS" width="40" height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" /></a>
-  <a href="https://vitejs.dev/"><img alt="vite" src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" /></a>
-  <a href=""><img alt="chatGPT" height="22" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" alt="React" height="30"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="30"/>
+  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="TypeScript" height="30"/>
+  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" height="30"/>
+  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" alt="Redux" height="30"/>
+  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" alt="Tailwind CSS" height="30"/>
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" height="30"/>
+  <img src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" alt="Styled Components" height="30"/>
+  <img src="https://badges.aleen42.com/src/jest_1.svg" alt="Jest" height="30"/>
+  <img src="https://badges.aleen42.com/src/eslint.svg" alt="ESLint" height="30"/>
+  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg" alt="Visual Studio Code" height="30"/>
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="40" height="30"/>
+  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" alt="Vite" height="30"/>
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="30"/>
 </p>
 
 <details>
