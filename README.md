@@ -3,26 +3,26 @@
 [![logo]][site]
 
 🌱 🚀 Continuous Learning: 
-
 <p align="left">
-  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" alt="React" height="30"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="30"/>
-  <img src="https://www.typescriptlang.org/assets/images/logo-64x64.png" alt="TypeScript" height="30"/>
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" height="30"/>
-  <img src="https://img.shields.io/badge/Recharts-2C475A?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts" height="30"/> <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" height="30"/>
-  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" alt="Redux" height="30"/>
-  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" alt="Tailwind CSS" height="30"/>
-  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" height="30"/>
-  <img src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="30"/>
-  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" height="30"/>
-  <img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" alt="Styled Components" height="30"/>
-  <img src="https://badges.aleen42.com/src/jest_1.svg" alt="Jest" height="30"/>
-  <img src="https://badges.aleen42.com/src/eslint.svg" alt="ESLint" height="30"/>
-  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg" alt="Visual Studio Code" height="30"/>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="40" height="30"/>
-  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" alt="Vite" height="30"/>
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="30"/>
+  <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" alt="React" height="30"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="30"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30"/></a>
+  <a href="https://zod.dev/" target="_blank"><img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" height="30"/></a>
+  <a href="https://recharts.org/" target="_blank"><img src="https://img.shields.io/badge/Recharts-2C475A?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts" height="30"/></a>
+  <a href="https://www.chartjs.org/" target="_blank"><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" height="30"/></a>
+  <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" alt="Redux" height="30"/></a>
+  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank"><img src="https://img.shields.io/badge/Zustand-2E475A?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" height="30"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" alt="Tailwind CSS" height="30"/></a>
+  <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" height="30"/></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="30"/></a>
+  <a href="https://bun.sh/" target="_blank"><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" height="30"/></a>
+  <a href="https://styled-components.com/" target="_blank"><img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" alt="Styled Components" height="30"/></a>
+  <a href="https://jestjs.io/" target="_blank"><img src="https://badges.aleen42.com/src/jest_1.svg" alt="Jest" height="30"/></a>
+  <a href="https://eslint.org/" target="_blank"><img src="https://badges.aleen42.com/src/eslint.svg" alt="ESLint" height="30"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/visual_studio.svg" alt="Visual Studio Code" height="30"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="30"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="40" height="30"/></a>
+  <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" alt="Vite" height="30"/></a>
+  <a href="https://github.com/features/copilot/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" height="30"/></a>
 </p>
 
 <details>
