@@ -3,15 +3,18 @@
 [![logo]][site]
 
 🌱 🚀 Continuous Learning: 
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" alt="React" height="30"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="30"/>
-  <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/typescript.svg" alt="TypeScript" height="30"/>
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" height="30"/>
+  <img src="https://www.typescriptlang.org/assets/images/logo-64x64.png" alt="TypeScript" height="30"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" height="30"/>
+  <img src="https://img.shields.io/badge/Recharts-2C475A?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts" height="30"/> <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" height="30"/>
   <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" alt="Redux" height="30"/>
   <img src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" alt="Tailwind CSS" height="30"/>
   <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" height="30"/>
   <img src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="30"/>
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" height="30"/>
   <img src="https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e" alt="Styled Components" height="30"/>
   <img src="https://badges.aleen42.com/src/jest_1.svg" alt="Jest" height="30"/>
   <img src="https://badges.aleen42.com/src/eslint.svg" alt="ESLint" height="30"/>
