@@ -11,7 +11,8 @@
   <a href="https://recharts.org/" target="_blank"><img src="https://img.shields.io/badge/Recharts-2C475A?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts" height="30"/></a>
   <a href="https://www.chartjs.org/" target="_blank"><img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" height="30"/></a>
   <a href="https://redux.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/redux.svg" alt="Redux" height="30"/></a>
-  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank"><img src="https://img.shields.io/badge/Zustand-2E475A?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" height="30"/></a> <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" alt="Tailwind CSS" height="30"/></a>
+  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank"><img src="https://img.shields.io/badge/Zustand-2E475A?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand" height="30"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/tailwindcss.svg" alt="Tailwind CSS" height="30"/></a>
   <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM" height="30"/></a>
   <a href="https://nodejs.org/en/" target="_blank"><img src="https://img.shields.io/badge/-Node-43853d?style=flat-square&logo=Node.js&logoColor=white" alt="Node.js" height="30"/></a>
   <a href="https://bun.sh/" target="_blank"><img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="Bun" height="30"/></a>
@@ -23,8 +24,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="40" height="30"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" alt="Vite" height="30"/></a>
   <a href="https://github.com/features/copilot/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" height="30"/></a>
-</p>
-
+  <a href="https://ai.google.com/search/how-search-works/ai/" target="_blank"><img src="https://img.shields.io/badge/Gemini%20AI-6A0DAD?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" height="30"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/API%20Integration-28A745?style=for-the-badge&logo=data%20transfer&logoColor=white" alt="API Integration" height="30"/></a> </p>
 <details>
 <summary>📊 GitHub Stats</summary>
 <p>
