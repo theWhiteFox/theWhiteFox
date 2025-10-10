@@ -1,4 +1,4 @@
-# theWhiteFox dev ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
+# theWhiteFox Development ![](https://komarev.com/ghpvc/?username=thewhitefox&color=e24c38) 🎉
 
 [![logo]][site]
 
