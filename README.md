@@ -8,7 +8,7 @@
     <a href="https://www.thewhitefoxdev.com/blog" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="theWhitefoxDev/blog" height="22"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" alt="React" height="22"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="22"/></a>
-    <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" height="22"/></a>
+    <a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" height="22"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" height="22"/></a>
    <a href="https://zen-browser.app/" target="_blank"><img src="https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen" height="22"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="22"/></a>
