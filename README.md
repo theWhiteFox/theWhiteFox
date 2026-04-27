@@ -5,8 +5,12 @@
 🌱 🚀 Continuous Learning: 
 
 <p align="left">
+    <a href="https://www.thewhitefoxdev.com/blog" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="theWhitefoxDev/blog" height="22"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/react.svg" alt="React" height="22"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" height="22"/></a>
+    <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" height="22"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/expo-1C1E24.svg?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" height="22"/></a>
+   <a href="https://zen-browser.app/" target="_blank"><img src="https://img.shields.io/badge/Zen-%23F76F53.svg?style=for-the-badge&logo=zenbrowser&logoColor=white" alt="Zen" height="22"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="22"/></a>
   <a href="https://zod.dev/" target="_blank"><img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" height="22"/></a>
   <a href="https://recharts.org/" target="_blank"><img src="https://img.shields.io/badge/Recharts-2C475A?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts" height="22"/></a>
@@ -24,6 +28,7 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="30" height="22"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" alt="Vite" height="22"/></a>
   <a href="https://github.com/features/copilot/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" height="22"/></a>
+    <a href="https://www.blender.org/download/" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="22"/></a>
   <a href="https://ai.google.com/search/how-search-works/ai/" target="_blank"><img src="https://img.shields.io/badge/Gemini%20AI-6A0DAD?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" height="22"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/API%20Integration-28A745?style=for-the-badge&logo=data%20transfer&logoColor=white" alt="API Integration" height="22"/></a>
 </p>
