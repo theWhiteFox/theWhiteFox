@@ -27,6 +27,8 @@
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" height="22"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://raw.githubusercontent.com/aleen42/badges/master/src/vitejs.svg" alt="Vite" height="22"/></a>
   <a href="https://github.com/features/copilot/" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" height="22"/></a>
+        <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch"  height="22"/></a>
+    <a href="https://www.gimp.org/downloads/" target="_blank"><img src="https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp Gnu Image Manipulation Program"  height="22"/></a>
     <a href="https://www.blender.org/download/" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="22"/></a>
   <a href="https://ai.google.com/search/how-search-works/ai/" target="_blank"><img src="https://img.shields.io/badge/Gemini%20AI-6A0DAD?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" height="22"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/API%20Integration-28A745?style=for-the-badge&logo=data%20transfer&logoColor=white" alt="API Integration" height="22"/></a>
