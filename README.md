@@ -32,7 +32,7 @@
     <a href="https://www.blender.org/download/" target="_blank"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="22"/></a>
   <a href="https://ai.google.com/search/how-search-works/ai/" target="_blank"><img src="https://img.shields.io/badge/Gemini%20AI-6A0DAD?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini AI" height="22"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API" target="_blank"><img src="https://img.shields.io/badge/API%20Integration-28A745?style=for-the-badge&logo=data%20transfer&logoColor=white" alt="API Integration" height="22"/></a>
-      <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/5/5c/20191001215232!AWS_Simple_Icons_AWS_Cloud.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="AWS" /></a>
+      <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/archive/5/5c/20191001215232!AWS_Simple_Icons_AWS_Cloud.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" alt="AWS" width="70" height="70"/></a>
 </p>
 
 📊 GitHub Stats
